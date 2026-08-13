@@ -1,0 +1,1116 @@
+{
+  "items": [
+    {
+      "description": "Pour en savoir plus rendez-vous à cette section.\nThis project is currently hosted on GitHub. This is not ideal; GitHub is a proprietary, trade-secret system that is not Free and Open Souce Software (FOSS).",
+      "items": [],
+      "title": "We're Using GitHub Under Protest"
+    },
+    {
+      "description": "Une liste d'outils et de ressources (sites web, ebooks, podcasts, vidéos, blogs, articles, conférences, guides, programmes, etc.) gratuites plutôt orientés web (en tout cas initialement, ce qui tend à changer au cours du temps).\nCette liste n'est pas exhaustive par choix (il y'a des choses qui ne m'intéressent pas plus que ça et d'autres ressources que je trouve moins pertinentes).",
+      "items": [],
+      "title": "En quelques mots"
+    },
+    {
+      "description": "La liste en elle-même est francophone, cependant de nombreuses ressources répertoriées ici sont (malheureusement) uniquement disponibles en anglais.\nIl serait idiot de ne sélectionner que des ressources ayant l'amabilité d'être traduites en français. L'accessibilité aux francophones reste néanmoins une priorité sur ce dépôt (au même titre que la gratuité) et permettra au moins de proposer un panorama en français de différentes ressources.\nUn effort est fait pour mettre en avant des ressources francophones et retrouver des ressources traduites en français (par exemple pour les livres) quand cela sera possible*.",
+      "items": [],
+      "title": "Des limites de la francophonie"
+    },
+    {
+      "description": "Servez-vous de ce dépôt comme d'une banque de marque-pages. Grâce à la table des matières, trouvez quelque chose qui peut vous aider ou vous intéresser.\nSpoiler alert : vous n'avez pas besoin - et de toute manière n'aurez pas assez d'une vie - d'apprendre, de lire ou de maîtriser tout ce qui est exposé ici. Naviguez la conscience tranquille vers ce qui vous paraît utile ou vous attire. Ce dépôt donne du vertige aussi à son auteur, et ce dernier est pris dans le douloureux paradoxe d'ajouter du bruit au bruit pour toutes celles et ceux qui cherchent à démarrer en programmation et/ou dans le développement web.\nPar souci de simplicité et d'accessibilité, ce dépôt va continuer à grandir dans un fichier bien à plat. C'est comme dans une brocante, faut faire un tour pour voir. Mais bon, il y'a quand même une table des matières, la recherche par mot-clef et des hyperliens pour faciliter la navigation.",
+      "items": [],
+      "title": "Conseils d'utilisation"
+    },
+    {
+      "description": "Des liens morts ? Une typo ? Une ressource que vous trouvez pertinente n'est pas présente ici et vous voulez la partager ?\nProposez votre contribution via l'ouverture d'une issue ou d'une Pull Request. Avant de soumettre une suggestion, merci de lire Comment contribuer au dépôt ?\nNo time to lose !",
+      "items": [],
+      "title": "Contribuez et partagez"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Environnements d'apprentissage interactifs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "API publiques"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Côté client, Frontend"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "simple.css",
+          "description": ", un template css sans classe pour prototyper un site markup stylé rapidement.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-19T12:31:23Z",
+            "owner": "kevquirk",
+            "repo": "simple.css",
+            "stars": 4970
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "new.css",
+          "description": ", un framework css sans classe utilisant uniquement les sélecteurs de balise HTML et qui pèse 4.8kb",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-10T01:07:50Z",
+            "owner": "xz",
+            "repo": "new.css",
+            "stars": 4041
+          }
+        }
+      ],
+      "title": "Générateurs/Templates CSS"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Check, check, check"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "WordPress"
+    },
+    {
+      "description": "En 2021 on comptait environ 455 000 000 sites WordPress. Cela représente au moins 30% du web, mais en réalité plutôt 40% (estimation haute).\nWordPress est un framework parfaitement adapté pour gérer et publier du contenu sur Internet. C'est un outil versatile qui peut être adapté pour toute taille de projet. Si WordPress peut être utilisé pour tout faire, il n'est pas toujours la solution la plus adaptée !\nCe framework existe depuis 2004, dans le monde du logiciel libre c'est une éternité.\nWordPress est développé et pensé pour l'utilisateur final (celui qui publie et gère le contenu), et non pour le développeur. Les utilisateurs se moquent bien de nos outils tant qu'ils ont ce qu'ils demandent. WordPress, à l'instar de LibreOffice ou autre, est devenu un standard de gestion de contenu en ligne que beaucoup de personnes non-techniciennes connaissent bien, utilisent quotidiennement et demandent. C'est donc un énorme avantage de capitaliser dessus pour les futurs utilisateurs de votre application web.",
+      "items": [],
+      "title": "Un mot"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Mots de passe"
+    },
+    {
+      "description": "source",
+      "items": [],
+      "title": "Standards"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "XML"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Protocoles"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "HAL Explorer",
+          "description": ", with HAL Explorer you can browse and explore HAL and HAL-FORMS based RESTful Hypermedia APIs. HAL Explorer was inspired by Mike Kelly’s HAL-Browser. HAL Explorer also supports Spring Profiles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T18:42:08Z",
+            "owner": "toedter",
+            "repo": "hal-explorer",
+            "stars": 177
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "IANA Media Types Registry",
+          "description": ", liste de formats sérieux, recensés par l'IANA. Si vous cherchez un format pour les réponses de votre service vous pouvez parcourir cette liste:",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SIREN",
+              "description": ";",
+              "children": []
+            }
+          ]
+        }
+      ],
+      "title": "REST, Architecture of the World Wide Web"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Spécifiques à un langage/écosystème"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Programmation fonctionnelle"
+    },
+    {
+      "description": "Elm est un langage/ecosystème fonctionnel pour développer des applications web. Il compile vers Javascript. Elm possède peut être le compilateur le plus human-friendly au monde",
+      "items": [],
+      "title": "Elm"
+    },
+    {
+      "description": "Et oui, Rich Hickey a le droit à sa propre section. Allez directement voir ce dépôt, le job est déjà fait avec talent pour recenser tous ses travaux.",
+      "items": [],
+      "title": "Rich Hickey"
+    },
+    {
+      "description": "Le Markdown est tout simplement le meilleur format pour créer de la documentation sur tout ce que vous faites sur votre machine. C'est un langage à balises léger. Facile à lire, facile à écrire. Il a été pensé originellement pour écrire pour le web.\nFacile à apprendre, facile à exporter vers tout un tas de formats markup (HTML, PDF, LaTeX, XML, etc.). C'est le markup ultime pour écrire, prendre des notes, partager et surtout créer une base de connaissances, que ce soit en local ou sur le web. Markdown refait apprécier le goût du web : content first, les hyperliens et un processus de publication simple et facile.\nMarkdown est un \"standard (volontairement) incomplet\" ce qui a laissé la place à de nombreuses implémentations différentes.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CommonMark",
+          "description": ", une spécification Markdown créée en 2004 par John Gruber et Aaron Swartz, implémentée dans de nombreux langages de programmation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-27T19:15:35Z",
+            "owner": "commonmark",
+            "repo": "commonmark-spec",
+            "stars": 5132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Liste des implémentations Markdown",
+          "description": ", les différentes implémentations ou parsers Markdown",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2023-06-26T11:27:21Z",
+            "owner": "markdown",
+            "repo": "markdown.github.com",
+            "stars": 244
+          }
+        }
+      ],
+      "title": "Markdown"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Écriture technique"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Boîte à outils"
+    },
+    {
+      "description": "writer's workbench (wwb) était un correcteur de grammaire automatique très avancé, développé aux Bell Labs par Lorinda Cherry et Nina Macdonald. Cet outil a aidé le groupe UNIX à produire de la documentation technique et des documents de meilleure qualité. Un article complet y a été consacré dans le magazine Byte en 1983. Vous pouvez y accéder grâce au précieux travail d'Internet Archive. Sur GNU/Linux, ce projet s'est décliné sous la forme de plusieurs programmes comme spell, style et diction. Une version en ligne est également accessible via ce site web.",
+      "items": [],
+      "title": "(et descendants)"
+    },
+    {
+      "description": "Aujourd'hui il y a tellement de webservices gratuits pour le faire. Mais quand il s'agit d'automatiser, de se soucier parfois de la base de données qu'on alimente avec nos photos et nos textes, il est toujours bon de se rappeler qu'on a tous les outils en local pour le faire dans le respect de notre vie privée et pour le meilleur.",
+      "items": [],
+      "title": "Manipulation de fichiers, documents"
+    },
+    {
+      "description": "Apprenez ce qui vous fait plaisir. Même si vous ne trouverez sûrement pas de poste SmallTalk sur LinkedIn aujourd'hui, apprendre SmallTalk fera de vous un·e meilleur·e programmeur·se. Tout est transférable, aucun chemin d'apprentissage n'est inutile. Le passé est rempli d'idées, de concepts, de méthodes, de technologies intéressantes et longuement débatues collectivement par des personnes intelligentes. Profitons-en et regardons en arrière. La majorité des modes, de ce qui est nouveau dans le domaine informatique, de la hype, sont en fait des vieilles idées des années 60 ou 80. Il faut d'abord aller voir dans le passé, on est surpris d'y constater que la plupart des idées nouvelles ne sont pas nouvelles.",
+      "items": [],
+      "title": "Langages/technos à découvrir"
+    },
+    {
+      "description": "Ce dépôt n'échappe pas à la règle et ajoute du bruit au bruit. Cela représente un paradoxe assez connu de celles et ceux qui veulent apprendre le web et se retrouvent confronté·e·s à un flow de ressources complètement impossible à digérer. Ces questions sont d'ailleurs discutées dans ce podcast, consacré au sujet Comment apprendre à devenir développeur web ?",
+      "items": [],
+      "title": "Du bruit au bruit"
+    },
+    {
+      "description": "Tcl (Tool Command language) est un langage open-source versatile permettant de développer des applications Desktop, web, CLI, etc. Il vient avec Tk, un GUI toolkit pour développer des applications natives pour toutes les plateformes. Visiter le wiki pour en savoir plus.",
+      "items": [],
+      "title": "Tcl/Tk"
+    },
+    {
+      "description": "Allez fouiller sur welib.org (anciennement pdfdrive), site indispensable, surtout lorsque nos moyens sont modestes. Vous y trouverez certainement le bouquin que vous cherchez.",
+      "items": [],
+      "title": "Livres"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Etudes for Programmers",
+          "description": ", de Charles Wetherell, publié chez Prentice-Hall, 1978",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2021-04-26T15:40:55Z",
+            "owner": "archermarx",
+            "repo": "etudes",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Code Complete, 2nd Edition",
+          "description": ", de Steve McConnell, publié chez Microsoft, 2004. Un classique tout en un sur la construction de programmes. A pour ambition de faire le pont entre la recherche académique et l'industrie sur les techniques pour programmer de manière efficace",
+          "children": []
+        }
+      ],
+      "title": "Quelques classiques (liste non exhaustive, en construction...)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tiny-gpu",
+          "description": ", une implémentation GPU minimale pour apprendre le fonctionnement des GPU",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SystemVerilog",
+            "last_commit": "2024-08-18T06:06:13Z",
+            "owner": "adam-maj",
+            "repo": "tiny-gpu",
+            "stars": 12842
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Category Theory For Programmers",
+          "description": ", de Bartosz Milewski",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2026-07-10T19:34:51Z",
+            "owner": "hmemcpy",
+            "repo": "milewski-ctfp-pdf",
+            "stars": 11669
+          }
+        }
+      ],
+      "title": "Mathématiques, mathématiques et informatique et autres aspects bas niveau"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "En vrac"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Articles, News, Billets de blog"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Stacer",
+          "description": ", optimisation et monitoring de votre machine linux, avec une interface graphique sympa",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-02-10T13:08:58Z",
+            "owner": "oguzhaninan",
+            "repo": "Stacer",
+            "stars": 9311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "backup-manager",
+          "description": ", un programme configurable, scriptable, simple et puissant pour faire des backups automatiques ou manuels, complets/incrémentaux, de vos données et vos bases de données. Que vous utilisiez ce logiciel ou un autre, peu importe, la première sécurité c'est de ne pas perdre vos données. Tape is cheap, and is forever.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-31T16:32:29Z",
+            "owner": "sukria",
+            "repo": "Backup-Manager",
+            "stars": 285
+          }
+        }
+      ],
+      "title": "Prendre soin de sa machine"
+    },
+    {
+      "description": "D'autres dépôts comme celui-ci.",
+      "items": [],
+      "title": "Dépôts"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome",
+          "description": ", le dépôt originel des dépôts listant des bonnes ressources sur des sujets intéressants",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-30T18:21:16Z",
+            "owner": "sindresorhus",
+            "repo": "awesome",
+            "stars": 495297
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Best-websites-a-programmer-should-visit",
+          "description": ", une liste de sites web utiles aux programmeu·r·ses",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2025-09-16T18:34:24Z",
+            "owner": "sdmg15",
+            "repo": "Best-websites-a-programmer-should-visit",
+            "stars": 76276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Best-websites-a-programmer-should-visit",
+          "description": ", une liste de sites web utiles pour les programmeur·ses",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2025-09-16T18:34:24Z",
+            "owner": "sdmg15",
+            "repo": "Best-websites-a-programmer-should-visit",
+            "stars": 76276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "design resources for developer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-24T10:07:48Z",
+            "owner": "bradtraversy",
+            "repo": "design-resources-for-developers",
+            "stars": 66647
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Design Resources for developers",
+          "description": ", un autre dépôt maintenant une liste de ressources pour le design/composants web",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-24T10:07:48Z",
+            "owner": "bradtraversy",
+            "repo": "design-resources-for-developers",
+            "stars": 66647
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Web Development Resources",
+          "description": ", un dépôt impressionant (et mieux organisé que celui-ci) référençant des tonnes de ressources pour le développement web",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-09T05:31:42Z",
+            "owner": "markodenic",
+            "repo": "web-development-resources",
+            "stars": 8078
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-learning-resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-07-16T10:29:00Z",
+            "owner": "lauragift21",
+            "repo": "awesome-learning-resources",
+            "stars": 5756
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Web Development Resources You Ever Need",
+          "description": ", un dépôt maintenant une liste de ressources pour le développement web",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-19T09:12:18Z",
+            "owner": "iamismile",
+            "repo": "web-dev-resources",
+            "stars": 778
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Web development resources",
+          "description": ", un autre dépôt maintenant une liste de ressources pour le dev",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-10T15:40:25Z",
+            "owner": "milanaryal",
+            "repo": "web-development-resources",
+            "stars": 223
+          }
+        }
+      ],
+      "title": "Général"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "front end checklist",
+          "description": ", liste tout ce que vous devez pensez à checker sur votre front avant d'envoyer en prod",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MDX",
+            "last_commit": "2026-08-11T04:01:39Z",
+            "owner": "thedaviddias",
+            "repo": "Front-End-Checklist",
+            "stars": 73525
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "frontend dev bookmarks",
+          "description": ", une liste de ressources de qualité pour les développeurs frontend",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-05-21T10:56:58Z",
+            "owner": "dypsilon",
+            "repo": "frontend-dev-bookmarks",
+            "stars": 47376
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "css-protips",
+          "description": ", un dépôt qui documente tout un tas de conseils pour le CSS avec exemples à l'appui",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-03-20T14:10:02Z",
+            "owner": "AllThingsSmitty",
+            "repo": "css-protips",
+            "stars": 30244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frontend stuff",
+          "description": ", liste de tous les frameworks et libs côté client (CSS et JS surtout)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-26T14:26:52Z",
+            "owner": "moklick",
+            "repo": "frontend-stuff",
+            "stars": 8952
+          }
+        }
+      ],
+      "title": "Côté client (Front-end)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Magic tools",
+          "description": ", un autre dépôt recenssant une tonne de ressources pour le développement de jeux vidéos (asset, code, design, outils, etc.)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Markdown",
+            "last_commit": "2026-08-10T17:51:51Z",
+            "owner": "ellisonleao",
+            "repo": "magictools",
+            "stars": 17122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GameDev Ressources",
+          "description": ", un dépôt recenssant une tonne de ressources pour le développement de jeux vidéos (asset, code, design, outils, etc.)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-10T19:20:30Z",
+            "owner": "Kavex",
+            "repo": "GameDev-Resources",
+            "stars": 6851
+          }
+        }
+      ],
+      "title": "Développement de jeux vidéos"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-talks",
+          "description": ", un dépôt maintenant une liste de conférences tech, sacré taff",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-25T14:00:39Z",
+            "owner": "JanVanRyswyck",
+            "repo": "awesome-talks",
+            "stars": 6199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Developers Conferences Agenda/List",
+          "description": ", agenda des conférences tech dans le monde",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T06:14:05Z",
+            "owner": "scraly",
+            "repo": "developers-conferences-agenda",
+            "stars": 1995
+          }
+        }
+      ],
+      "title": "Conférences"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Spécifique à une techno"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome PHP",
+          "description": ", une liste organisée de ressources pour PHP (lib, books, podcasts, frameworks...)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-13T19:44:57Z",
+            "owner": "ziadoz",
+            "repo": "awesome-php",
+            "stars": 32647
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clean Code PHP",
+          "description": ", des principes de clean code appliqués à PHP",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-05-09T12:52:01Z",
+            "owner": "piotrplenik",
+            "repo": "clean-code-php",
+            "stars": 12450
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome PHP security",
+          "description": ", une liste organisée de ressources pour la sécurité des applications PHP",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-09-14T12:25:04Z",
+            "owner": "guardrailsio",
+            "repo": "awesome-php-security",
+            "stars": 1034
+          }
+        }
+      ],
+      "title": "PHP"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "airbnb/javascript",
+          "description": ", le guide des bonnes pratiques JS d'airbnb",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-16T19:24:09Z",
+            "owner": "airbnb",
+            "repo": "javascript",
+            "stars": 148148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-fp-js",
+          "description": ", la même sur la programmation fonctionnelle",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-15T19:55:47Z",
+            "owner": "stoeffel",
+            "repo": "awesome-fp-js",
+            "stars": 6037
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-json",
+          "description": ", la même sur des lib et ressources pour le json",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-19T12:25:07Z",
+            "owner": "burningtree",
+            "repo": "awesome-json",
+            "stars": 1561
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-jquery",
+          "description": ", la même sur Jquery",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-01T15:37:15Z",
+            "owner": "petk",
+            "repo": "awesome-jquery",
+            "stars": 981
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-js",
+          "description": ", une liste organisée sur les fondamentaux JS et algos",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-09-19T23:06:01Z",
+            "owner": "ggomaeng",
+            "repo": "awesome-js",
+            "stars": 388
+          }
+        }
+      ],
+      "title": "JS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-design-patterns",
+          "description": ", des solutions réutilisables face à des problèmes courants d'architecture logicielle",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-25T19:57:00Z",
+            "owner": "DovAmir",
+            "repo": "awesome-design-patterns",
+            "stars": 48550
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A comprehensive list of books on Software Architecture",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-03-15T13:16:48Z",
+            "owner": "mhadidg",
+            "repo": "software-architecture-books",
+            "stars": 11284
+          }
+        }
+      ],
+      "title": "Design et architecture logicielle"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "build-your-own-x",
+          "description": ", des guides sélectionnés et corrigés pour recréer des logiciels que vous utilisez tous les jours (client BitTorrent, Bot, CLI, git, etc.). Vous permet de comprendre comment ces logiciels fonctionnent et d'apprendre des technos",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Markdown",
+            "last_commit": "2026-07-14T19:25:58Z",
+            "owner": "codecrafters-io",
+            "repo": "build-your-own-x",
+            "stars": 539387
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The design system primer",
+          "description": ", dépôt qui liste de nombreuses ressources pour apprendre à designer des systèmes informatiques sur le web. Focus sur la préparation aux entretiens",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-20T01:52:19Z",
+            "owner": "donnemartin",
+            "repo": "system-design-primer",
+            "stars": 363618
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "system-design-primer",
+          "description": ", apprendre comment designer des grands systèmes d'information",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-20T01:52:19Z",
+            "owner": "donnemartin",
+            "repo": "system-design-primer",
+            "stars": 363618
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "project-based-learning",
+          "description": ", une liste de tutoriels dans différents languages pour apprendre des technos sur des idées de projet",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T07:04:22Z",
+            "owner": "practical-tutorials",
+            "repo": "project-based-learning",
+            "stars": 279024
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "every-programmer-should-know",
+          "description": ", un immense dépôt qui agrège une collection de savoirs techniques bon à connaître ou à découvrir lorsqu'on est développeur.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-12-29T19:37:02Z",
+            "owner": "mtdvio",
+            "repo": "every-programmer-should-know",
+            "stars": 100249
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "app-ideas",
+          "description": ", des idées d'applications à développer si on est en panne d'inspiration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-10-11T14:51:21Z",
+            "owner": "florinpop17",
+            "repo": "app-ideas",
+            "stars": 96750
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "professional-programming",
+          "description": ", collection de ressources pour apprendre sur tout un tas de sujets liés aux webs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-15T15:55:09Z",
+            "owner": "charlax",
+            "repo": "professional-programming",
+            "stars": 51398
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-guidelines",
+          "description": ", les standards d'écriture adapotés par chaque communauté (langage/techno)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-28T02:14:37Z",
+            "owner": "Kristories",
+            "repo": "awesome-guidelines",
+            "stars": 11027
+          }
+        }
+      ],
+      "title": "Apprendre"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "public-apis",
+          "description": ", une collection d'API publiques classées par thématique. Magnifique travail",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T09:25:54Z",
+            "owner": "public-apis",
+            "repo": "public-apis",
+            "stars": 455909
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "markodenic/public-apis",
+          "description": ", un autre dépôt listant des api publiques, par Marko Denic",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-12-08T19:25:42Z",
+            "owner": "markodenic",
+            "repo": "public-apis",
+            "stars": 204
+          }
+        }
+      ],
+      "title": "API web publiques"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "developer roadmap",
+          "description": ", un dépôt qui propose des chemins d'apprentissage pour les différents postes du web",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T09:38:56Z",
+            "owner": "nilbuild",
+            "repo": "developer-roadmap",
+            "stars": 364333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gitignore",
+          "description": ", une collection de templates pour vos fichiers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-23T16:06:45Z",
+            "owner": "github",
+            "repo": "gitignore",
+            "stars": 175280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "the-art-of-command-line",
+          "description": ", s'améliorer en ligne de commande",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-25T18:13:44Z",
+            "owner": "jlevy",
+            "repo": "the-art-of-command-line",
+            "stars": 162104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "html5-boilerplate",
+          "description": ", un template de départ professionnel pour vos fichiers html",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T23:11:22Z",
+            "owner": "h5bp",
+            "repo": "html5-boilerplate",
+            "stars": 57588
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "big-list-of-naughty-string",
+          "description": ", un dépôt qui recense toutes les chaînes de caractères qui pourraient poser problème quand elles entrent dans votre application",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-18T03:26:59Z",
+            "owner": "minimaxir",
+            "repo": "big-list-of-naughty-strings",
+            "stars": 47705
+          }
+        }
+      ],
+      "title": "Divers"
+    },
+    {
+      "description": "Lisez !",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "free-programming-books",
+          "description": ", un dépôt qui héberge une tonne de bouquins techniques au format PDF maintenu par la Free Ebook Foundation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T12:11:06Z",
+            "owner": "EbookFoundation",
+            "repo": "free-programming-books",
+            "stars": 394328
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "free-programming-books en français",
+          "description": ", même dépôt que précédemment mais listant que des livres de programmation en français !",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T12:11:06Z",
+            "owner": "EbookFoundation",
+            "repo": "free-programming-books",
+            "stars": 394328
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "papers we love",
+          "description": ", un dépôt recensant et hébergeant (quand c'est possible) tout un tas d'articles sur l'informatique. Recense également une collection de sites pour trouver des papiers intéressants à lire",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-01T09:14:27Z",
+            "owner": "papers-we-love",
+            "repo": "papers-we-love",
+            "stars": 108713
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "techbooks",
+          "description": ", un dépôt qui héberge une tonne de bouquins techniques au format PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2013-07-17T23:21:49Z",
+            "owner": "zouyanjian",
+            "repo": "techbooks",
+            "stars": 90
+          }
+        }
+      ],
+      "title": "Lecture : articles, livres techniques (informatique, mathématiques)"
+    },
+    {
+      "description": "Les livres ça coute cher. Heureusement on en trouve plein en ligne gratuitement. Mais certain·e·s aiment bien le papier, vivre parmi les livres et en devenir familier pour retrouver facilement un chapitre dans un bouquin au pied levé, entourer, surligner, mettre des marque pages partout etc...\nPour cela on peut trouver pas mal de vieux livres mais qui restent toujours pertinent sur recyclelivre.com, une recyclerie de livres en ligne. On peut facilement repartir avec des livres de qualité pour quelques euro. En plus recyclelivre fait de la réinsertion sociale et verse une partie de ses bénéfices à des associations écolos.\nCertaines villes ont peut être encore la chance d'avoir des Librairies médicales et scientifiques, un ancien réseau de librairies pour les étudiants. Ces librairies disposaient d'une section informatique et distribuait notamment des livres de l'éditeur O'Reilly.\nSi vous avez des adresses de librairies physiques pour des livres techniques en informatique n'hésitez pas à les suggérer via une Pull Request. C'est très difficile d'en trouver malheureusement dès qu'on s'éloigne de la capitale...",
+      "items": [],
+      "title": "Trouver des livres techniques d'occasion pas cher"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Vivre de son travail"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CommunityWriterPrograms",
+          "description": ", une liste de sites/éditeurs à qui vous pouvez soumettre des articles techniques contre rémunération",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-31T10:02:13Z",
+            "owner": "malgamves",
+            "repo": "CommunityWriterPrograms",
+            "stars": 4173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "digitalocean",
+          "description": ", proposer des articles sur l'administration et l'écosystème linux, Docker ou la sécurité informatique. Seuls des articles portant sur des logiciels open-source sont acceptés. En voici une liste non exhaustive, pour en voir davantage rendez-vous sur ce dépôt.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-31T10:02:13Z",
+            "owner": "malgamves",
+            "repo": "CommunityWriterPrograms",
+            "stars": 4173
+          }
+        }
+      ],
+      "title": "Écrire des articles"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T17:32:57.794Z",
+    "original_repository": "websealevel/awesome-fr",
+    "original_repository_sha": "37026dd6e6eeb40cb0cd944c75c10a0e254ba5af",
+    "enhanced_repository": "enhansome/enhansome-fr",
+    "enhanced_repository_description": null,
+    "title": "Awesome Ressources gratuites pour les programmeur·euses, designeur·euses web, indépendant·es, bidouilleur·euses et autres intéressé·es with stars"
+  }
+}
