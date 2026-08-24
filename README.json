@@ -32,16 +32,152 @@
                 "last_commit": "2026-08-10T01:07:50Z",
                 "owner": "xz",
                 "repo": "new.css",
-                "stars": 4042
+                "stars": 4041
               }
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "Générateurs/Templates CSS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "magic grid",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 157127995,
+                "language": "JavaScript",
+                "last_commit": "2024-09-04T15:48:54Z",
+                "owner": "e-oj",
+                "repo": "Magic-Grid",
+                "stars": 3153
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "JS"
         }
       ],
       "title": "Côté client, Frontend"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mini-Tools upload",
+          "description": ", téléverser une image et obtenir une URL directe partageable sans compte. Propose également une suite d'outils navigateur (consulter le dépôt Github du projet)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 634124115,
+            "language": "HTML",
+            "last_commit": "2026-08-03T10:34:03Z",
+            "owner": "knsjd25",
+            "repo": "nxcmms",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Hébergement gratuit"
+    },
+    {
+      "description": "\"DevOps is a meaningful term\"",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Devops exercises",
+          "description": ", une collection d'exercices et de corrigés sur de nombreux sujets et technologies",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 212639071,
+            "language": "Python",
+            "last_commit": "2025-12-27T14:22:30Z",
+            "owner": "bregman-arie",
+            "repo": "devops-exercises",
+            "stars": 84257
+          }
+        }
+      ],
+      "title": "DevOps"
+    },
+    {
+      "description": "source\n\"The good thing about standards is that there are so many to choose from.\" (Andrew Tanenbaum)",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Interop",
+              "description": ", groupe de travail spécialisé dans l'interopérabilité entre les navigateurs (implémentations des standards du web). Ce groupe maintient notamment une suite de tests cross-browsers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 422285475,
+                "language": "JavaScript",
+                "last_commit": "2026-08-19T11:11:22Z",
+                "owner": "web-platform-tests",
+                "repo": "interop",
+                "stars": 506
+              }
+            }
+          ],
+          "description": "Une liste non exhaustive d'organismes qui implémentent et maintiennent les standards ouverts dans différents domaines de l'informatique.",
+          "node_type": "group",
+          "title": "Organismes"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DarkMoon",
+              "description": ", plateforme open source française de test d'intrusion autonome pilotée par IA et hébergée sur votre propre infrastructure. Elle couvre le web, les API, l'Active Directory et Kubernetes via un serveur MCP. Éditée en France par ASC IT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 894433723,
+                "language": "Python",
+                "last_commit": "2026-08-23T15:48:25Z",
+                "owner": "ASCIT31",
+                "repo": "Dark-Moon",
+                "stars": 867
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Standard SQL et bases de données relationnelles"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "KeePassXC Application Security Review",
+              "description": ", de Zaur Molotnikov. Un audit du gestionnaire de mots de passe open source KeePassXC. Contient de nombreuses informations utiles sur son fonctionnement et ses détails d'implémentation. Télécharger le PDF (version 1.2)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52729242,
+                "language": "C++",
+                "last_commit": "2026-08-24T03:45:33Z",
+                "owner": "keepassxreboot",
+                "repo": "keepassxc",
+                "stars": 28524
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Sécurité des applications web / Audit"
+        }
+      ],
+      "title": "Standards"
     },
     {
       "description": null,
@@ -55,7 +191,7 @@
             "archived": false,
             "id": 110509662,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T22:17:09Z",
+            "last_commit": "2026-08-24T02:51:49Z",
             "owner": "toedter",
             "repo": "hal-explorer",
             "stars": 177
@@ -63,6 +199,184 @@
         }
       ],
       "title": "REST, Architecture of the World Wide Web"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "phpCodeSniffer",
+              "description": ", l'outil par excellence pour appliquer des standards de manière semiautomatisé à son code source. Composé de deux programmes: phpcs pour sniffer les erreurs dans votre code et phpcbs pour corriger automatiquement ce qui peut l'être.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2699935,
+                "language": "PHP",
+                "last_commit": "2024-04-01T20:37:32Z",
+                "owner": "squizlabs",
+                "repo": "PHP_CodeSniffer",
+                "stars": 10776
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Voir le dépôt dédié à la veille PHP",
+              "description": ".",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 778639866,
+                "language": null,
+                "last_commit": "2026-05-08T07:27:26Z",
+                "owner": "paul-schuhm",
+                "repo": "veille-php",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "PHP"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "jquery",
+              "description": ", jquery est le parfait exemple de bibliothèque bien faite. On lit souvent qu'elle est morte. Il y a de quoi rire. Jquery n'est pas mort, jquery est partout. Jquery a eu un rôle majeur dans l'évolution du standard de JS. La bibliothèque est tellement solide et populaire qu'il a même été suggéré d'embarquer jquery (en cache) dans tous les navigateurs pour le futur standard HTML6. Idéalement, dans un monde parfait, jquery devrait disparaître tout comme JavaScript devrait disparaître du navigateur. En effet, les besoins de JS reculent toujours d’avantage à chaque nouvelle version du HTML. En attendant, ce n'est pas demain la veille alors autant s'y mettre pour au moins 3 raisons (a) jquery est partout, si vous travaillez sur du legacy code vous allez tomber dessus, (b) c'est hyper pratique et puissant et la surcouche n'éloigne pas trop du DOM, on apprend des choses sur le DOM qui seront toujours utiles même dans un monde post-jquery, même dans un univers vanilla JS (c) ça permet aussi de prototyper rapidement des interfaces dynamiques même si on décide ensuite de passer sur un framework JS (d) ça demande quand même de comprendre le vanilla JS. Voici un tout petit dépôt où l'on a sélectionné l'essentiel du fonctionnement de jquery pour bien comprendre comment cette bibliothèque fonctionne. (source de l'image)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 485685899,
+                "language": "JavaScript",
+                "last_commit": "2022-04-26T08:59:53Z",
+                "owner": "websealevel",
+                "repo": "doc-jquery",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "JavaScript"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Docker Bench for Security",
+              "description": ", ensemble de scripts open-source qui permet d'auditer de manière automatique l'installation et la configuration du serveur Docker en environnement de production",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35394510,
+                "language": "Shell",
+                "last_commit": "2026-06-04T18:11:52Z",
+                "owner": "docker",
+                "repo": "docker-bench-security",
+                "stars": 9694
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Docker et conteneurs"
+        }
+      ],
+      "title": "Spécifiques à un langage/écosystème"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nomnoml",
+          "description": ", un outil pour script le rendu de diagrammes UML",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 20434274,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T20:28:53Z",
+            "owner": "skanaar",
+            "repo": "nomnoml",
+            "stars": 2837
+          }
+        }
+      ],
+      "title": "Dessin et diagrammes"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pspg - Postgres Pager",
+          "description": ", pspg est un navigateur Unix pour naviguer dans les tables d'une base de données relationnelle",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 96926243,
+            "language": "C",
+            "last_commit": "2026-06-28T06:36:42Z",
+            "owner": "okbob",
+            "repo": "pspg",
+            "stars": 2728
+          }
+        }
+      ],
+      "title": "Outils d'administration (et conception parfois) de base de données"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Software Architecture Premier",
+          "description": ", liste de ressources pour apprendre l'architecture logicielle",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 843684669,
+            "language": null,
+            "last_commit": "2024-08-22T02:21:23Z",
+            "owner": "sivaprasadreddy",
+            "repo": "software-architecture-premier",
+            "stars": 609
+          }
+        }
+      ],
+      "title": "Architecture logicielle"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Le Guide (fr)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19955205,
+                "language": "Makefile",
+                "last_commit": "2026-07-20T17:07:02Z",
+                "owner": "bitemyapp",
+                "repo": "learnhaskell",
+                "stars": 8032
+              }
+            }
+          ],
+          "description": "Voir ce bouquin de référence.",
+          "node_type": "group",
+          "title": "Haskell"
+        }
+      ],
+      "title": "Programmation fonctionnelle"
     },
     {
       "description": "Le Markdown est tout simplement le meilleur format pour créer de la documentation sur tout ce que vous faites sur votre machine. C'est un langage à balises léger. Facile à lire, facile à écrire. Il a été pensé originellement pour écrire pour le web.\nFacile à apprendre, facile à exporter vers tout un tas de formats markup (HTML, PDF, LaTeX, XML, etc.). C'est le markup ultime pour écrire, prendre des notes, partager et surtout créer une base de connaissances, que ce soit en local ou sur le web. Markdown refait apprécier le goût du web : content first, les hyperliens et un processus de publication simple et facile.\nMarkdown est un \"standard (volontairement) incomplet\" ce qui a laissé la place à de nombreuses implémentations différentes.",
@@ -91,10 +405,10 @@
             "archived": false,
             "id": 988222683,
             "language": "Vue",
-            "last_commit": "2026-08-23T07:30:18Z",
+            "last_commit": "2026-08-24T10:58:38Z",
             "owner": "Simon-He95",
             "repo": "markstream-vue",
-            "stars": 2954
+            "stars": 2957
           }
         },
         {
@@ -114,6 +428,154 @@
         }
       ],
       "title": "Markdown"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "poc Marp",
+          "description": ", un dépôt simple qui sert de référence sur l'usage de Marp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 516114789,
+            "language": "HTML",
+            "last_commit": "2023-07-25T15:59:42Z",
+            "owner": "websealevel",
+            "repo": "poc-marp",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Présentations (slides) avec Markdown"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "resume.md",
+          "description": ", écrivez votre CV en Markdown, stylisez le en CSS, exportez le en PDF/HTML",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 280813362,
+            "language": "Python",
+            "last_commit": "2025-10-12T13:04:57Z",
+            "owner": "mikepqr",
+            "repo": "resume-markdown",
+            "stars": 659
+          }
+        }
+      ],
+      "title": "CV"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "typst",
+              "description": ", langage markup destiné à produire des documents complets. Se place sur le même terrain que LaTeX.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 210702427,
+                "language": "Rust",
+                "last_commit": "2026-08-24T12:39:06Z",
+                "owner": "typst",
+                "repo": "typst",
+                "stars": 55636
+              }
+            }
+          ],
+          "description": "Voir également les applications XML Docbook et Dita",
+          "node_type": "group",
+          "title": "Outils d'écriture et de publication"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Se former à l'écriture technique",
+              "description": ", liste de bonnes ressources pour se former",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 793579343,
+                "language": null,
+                "last_commit": "2024-11-16T07:13:56Z",
+                "owner": "paul-schuhm",
+                "repo": "ecriture-technique",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Apprentissage"
+        }
+      ],
+      "title": "Écriture technique"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "jpegoptim",
+                  "description": ", un outil pour optimiser/compresser des images au format jpeg,jpg. Une fois installé on peut aussi controler la qualité de la sortie avec un simple paramètre. Exemple : va compresser tous les fichiers du repertoire courant (sur place par défaut attention !) avec une qualité de 50 (cette valeur pouvant aller de 0 à 100). Plus d'infos en lisant le manuel",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 2448559,
+                    "language": "C",
+                    "last_commit": "2026-03-01T01:15:03Z",
+                    "owner": "tjko",
+                    "repo": "jpegoptim",
+                    "stars": 1809
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Compresser, optimiser des documents (images, pdf etc..)"
+            }
+          ],
+          "description": "Aujourd'hui il y a tellement de webservices gratuits pour le faire. Mais quand il s'agit d'automatiser, de se soucier parfois de la base de données qu'on alimente avec nos photos et nos textes, il est toujours bon de se rappeler qu'on a tous les outils en local pour le faire dans le respect de notre vie privée et pour le meilleur.",
+          "node_type": "group",
+          "title": "Manipulation de fichiers, documents"
+        }
+      ],
+      "title": "Boîte à outils"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Augmented Coding Patterns",
+          "description": ", une collection documentée de patterns dont s'inspirer dans un workflow basé sur l'interaction/intégration d'un LLM, guide/retex initialement écrit par Lada Kesseler;",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1061480994,
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T16:30:15Z",
+            "owner": "lexler",
+            "repo": "augmented-coding-patterns",
+            "stars": 389
+          }
+        }
+      ],
+      "title": "IA Génératives"
     },
     {
       "description": "Allez fouiller sur welib.org (anciennement pdfdrive), site indispensable, surtout lorsque nos moyens sont modestes. Vous y trouverez certainement le bouquin que vous cherchez.\nSi un livre vous parle, il est utile de s'en procurer une copie pour l'avoir à portée, le feuilleter, l'annoter, y placer des marque-pages, etc. et vivre avec.",
@@ -139,6 +601,28 @@
           "description": null,
           "node_type": "group",
           "title": "Quelques classiques (liste non exhaustive, en construction...)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "All ▲lgorithms",
+              "description": ", un dépôt collectif couvrant la majorité des algorithmes, avec exemples et implémentations. Voir le dépôt associé",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 149230474,
+                "language": "JavaScript",
+                "last_commit": "2023-09-27T14:32:06Z",
+                "owner": "AllAlgorithms",
+                "repo": "algorithms",
+                "stars": 172
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Algorithmes"
         }
       ],
       "title": "Livres"
@@ -158,7 +642,7 @@
             "last_commit": "2024-08-18T06:06:13Z",
             "owner": "adam-maj",
             "repo": "tiny-gpu",
-            "stars": 12864
+            "stars": 12866
           }
         },
         {
@@ -178,6 +662,63 @@
         }
       ],
       "title": "Mathématiques, mathématiques et informatique et autres aspects bas niveau"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "File upload security and good practices checklist",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 558481601,
+                    "language": "TypeScript",
+                    "last_commit": "2025-05-13T10:03:01Z",
+                    "owner": "dilaouid",
+                    "repo": "shitshit",
+                    "stars": 16
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Misc et à classer"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Articles, News, Billets de blog"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Category Theory",
+              "description": ", de Bartosz Milewski. Pour les programmeur·ses. Passionant ! Voir le dépôt associé (livre)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 102222927,
+                "language": "TeX",
+                "last_commit": "2026-07-10T19:34:51Z",
+                "owner": "hmemcpy",
+                "repo": "milewski-ctfp-pdf",
+                "stars": 11680
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Playlists"
+        }
+      ],
+      "title": "En vrac"
     },
     {
       "description": null,
@@ -232,7 +773,7 @@
                 "last_commit": "2026-08-21T12:39:13Z",
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 499213
+                "stars": 499522
               }
             },
             {
@@ -247,7 +788,7 @@
                 "last_commit": "2025-09-16T18:34:24Z",
                 "owner": "sdmg15",
                 "repo": "Best-websites-a-programmer-should-visit",
-                "stars": 76270
+                "stars": 76269
               }
             },
             {
@@ -262,7 +803,7 @@
                 "last_commit": "2025-09-16T18:34:24Z",
                 "owner": "sdmg15",
                 "repo": "Best-websites-a-programmer-should-visit",
-                "stars": 76270
+                "stars": 76269
               }
             },
             {
@@ -277,7 +818,7 @@
                 "last_commit": "2026-05-24T10:07:48Z",
                 "owner": "bradtraversy",
                 "repo": "design-resources-for-developers",
-                "stars": 66739
+                "stars": 66746
               }
             },
             {
@@ -292,7 +833,7 @@
                 "last_commit": "2026-05-24T10:07:48Z",
                 "owner": "bradtraversy",
                 "repo": "design-resources-for-developers",
-                "stars": 66739
+                "stars": 66746
               }
             },
             {
@@ -307,7 +848,7 @@
                 "last_commit": "2026-06-09T05:31:42Z",
                 "owner": "markodenic",
                 "repo": "web-development-resources",
-                "stars": 8084
+                "stars": 8085
               }
             },
             {
@@ -322,7 +863,7 @@
                 "last_commit": "2025-07-16T10:29:00Z",
                 "owner": "lauragift21",
                 "repo": "awesome-learning-resources",
-                "stars": 5760
+                "stars": 5762
               }
             },
             {
@@ -337,7 +878,7 @@
                 "last_commit": "2026-08-16T14:10:39Z",
                 "owner": "iamismile",
                 "repo": "web-dev-resources",
-                "stars": 781
+                "stars": 782
               }
             },
             {
@@ -364,6 +905,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Damn Vulnerable Web Application",
+              "description": ", une application web PHP/MySQL extrêmement vulnérable. Son objectif principal est d'aider les professionnels de la sécurité à tester leurs compétences et leurs outils dans un environnement légal, d'aider les développeurs web à mieux comprendre les processus de sécurisation des applications web et d'aider à la fois les étudiants et les enseignants à apprendre la sécurité des applications web dans un environnement de classe contrôlé.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9791525,
+                "language": "PHP",
+                "last_commit": "2026-08-19T13:12:21Z",
+                "owner": "digininja",
+                "repo": "DVWA",
+                "stars": 13535
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Sécurité"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "awesome-nocode-lowcode",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 347033367,
+                "language": null,
+                "last_commit": "2026-08-09T09:00:33Z",
+                "owner": "valentin-vogel",
+                "repo": "awesome-nocode-lowcode",
+                "stars": 416
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Outils \"no code\", \"low code\" ou plutot visual code"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "front end checklist",
               "description": ", liste tout ce que vous devez pensez à checker sur votre front avant d'envoyer en prod",
               "children": [],
@@ -374,7 +959,7 @@
                 "last_commit": "2026-08-14T05:59:25Z",
                 "owner": "thedaviddias",
                 "repo": "Front-End-Checklist",
-                "stars": 73618
+                "stars": 73668
               }
             },
             {
@@ -389,7 +974,7 @@
                 "last_commit": "2024-05-21T10:56:58Z",
                 "owner": "dypsilon",
                 "repo": "frontend-dev-bookmarks",
-                "stars": 47413
+                "stars": 47421
               }
             },
             {
@@ -404,7 +989,7 @@
                 "last_commit": "2025-03-20T14:10:02Z",
                 "owner": "AllThingsSmitty",
                 "repo": "css-protips",
-                "stars": 30254
+                "stars": 30258
               }
             },
             {
@@ -441,7 +1026,7 @@
                 "last_commit": "2026-08-17T17:57:40Z",
                 "owner": "ellisonleao",
                 "repo": "magictools",
-                "stars": 17187
+                "stars": 17191
               }
             },
             {
@@ -456,13 +1041,35 @@
                 "last_commit": "2026-04-10T19:20:30Z",
                 "owner": "Kavex",
                 "repo": "GameDev-Resources",
-                "stars": 6871
+                "stars": 6873
               }
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "Développement de jeux vidéos"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome-Selfhosted",
+              "description": ", un dépôt qui liste des logiciels libres (free software) webs et réseau à herberger soi-même",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36633370,
+                "language": null,
+                "last_commit": "2026-08-22T18:55:56Z",
+                "owner": "awesome-selfhosted",
+                "repo": "awesome-selfhosted",
+                "stars": 314666
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Applications web et réseaux à héberger soi-même"
         },
         {
           "children": [
@@ -478,7 +1085,7 @@
                 "last_commit": "2026-06-25T14:00:39Z",
                 "owner": "JanVanRyswyck",
                 "repo": "awesome-talks",
-                "stars": 6197
+                "stars": 6198
               }
             },
             {
@@ -490,7 +1097,7 @@
                 "archived": false,
                 "id": 91165678,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T04:34:41Z",
+                "last_commit": "2026-08-24T04:38:48Z",
                 "owner": "scraly",
                 "repo": "developers-conferences-agenda",
                 "stars": 1997
@@ -500,6 +1107,28 @@
           "description": null,
           "node_type": "group",
           "title": "Conférences"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome MLOps",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 244620269,
+                "language": null,
+                "last_commit": "2024-11-21T14:45:11Z",
+                "owner": "visenger",
+                "repo": "awesome-mlops",
+                "stars": 14161
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Machine learning"
         },
         {
           "children": [
@@ -517,7 +1146,7 @@
                     "last_commit": "2026-07-13T19:44:57Z",
                     "owner": "ziadoz",
                     "repo": "awesome-php",
-                    "stars": 32670
+                    "stars": 32672
                   }
                 },
                 {
@@ -532,7 +1161,7 @@
                     "last_commit": "2024-05-09T12:52:01Z",
                     "owner": "piotrplenik",
                     "repo": "clean-code-php",
-                    "stars": 12446
+                    "stars": 12447
                   }
                 },
                 {
@@ -569,7 +1198,7 @@
                     "last_commit": "2026-04-16T19:24:09Z",
                     "owner": "airbnb",
                     "repo": "javascript",
-                    "stars": 148131
+                    "stars": 148132
                   }
                 },
                 {
@@ -636,11 +1265,121 @@
               "description": null,
               "node_type": "group",
               "title": "JS"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "awesome-typescript",
+                  "description": ", la même pour Typescript",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 36996520,
+                    "language": null,
+                    "last_commit": "2026-02-11T04:21:43Z",
+                    "owner": "dzharii",
+                    "repo": "awesome-typescript",
+                    "stars": 5118
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Typescript"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "awesome-vue",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 44571718,
+                    "language": null,
+                    "last_commit": "2026-07-24T10:16:04Z",
+                    "owner": "vuejs",
+                    "repo": "awesome-vue",
+                    "stars": 73534
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Vue.js"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "wesome-nodejs-security",
+                  "description": ", la même sur des ressources pour sécuriser ses projets node.js",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 154401464,
+                    "language": null,
+                    "last_commit": "2026-08-14T17:07:08Z",
+                    "owner": "lirantal",
+                    "repo": "awesome-nodejs-security",
+                    "stars": 3025
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Node.js"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "awesome-flutter",
+                  "description": ", un dépôt qui maintient une liste filtrée de ressources pour Flutter",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 90528830,
+                    "language": "Dart",
+                    "last_commit": "2026-04-21T19:06:09Z",
+                    "owner": "Solido",
+                    "repo": "awesome-flutter",
+                    "stars": 60987
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Flutter"
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "Spécifique à une techno"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "awesomo",
+              "description": ", une liste de projets open-source intéressants (notamment si on veut se mettre à contribuer à l'open source)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 76383569,
+                "language": "Go",
+                "last_commit": "2026-06-04T13:09:28Z",
+                "owner": "lk-geimfari",
+                "repo": "awesomo",
+                "stars": 9925
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Projets open-source"
         },
         {
           "children": [
@@ -656,7 +1395,7 @@
                 "last_commit": "2024-10-25T19:57:00Z",
                 "owner": "DovAmir",
                 "repo": "awesome-design-patterns",
-                "stars": 48665
+                "stars": 48672
               }
             },
             {
@@ -671,7 +1410,7 @@
                 "last_commit": "2023-03-15T13:16:48Z",
                 "owner": "mhadidg",
                 "repo": "software-architecture-books",
-                "stars": 11307
+                "stars": 11308
               }
             }
           ],
@@ -693,7 +1432,7 @@
                 "last_commit": "2026-07-14T19:25:58Z",
                 "owner": "codecrafters-io",
                 "repo": "build-your-own-x",
-                "stars": 542281
+                "stars": 542533
               }
             },
             {
@@ -708,7 +1447,7 @@
                 "last_commit": "2026-03-20T01:52:19Z",
                 "owner": "donnemartin",
                 "repo": "system-design-primer",
-                "stars": 365598
+                "stars": 365730
               }
             },
             {
@@ -723,7 +1462,7 @@
                 "last_commit": "2026-03-20T01:52:19Z",
                 "owner": "donnemartin",
                 "repo": "system-design-primer",
-                "stars": 365598
+                "stars": 365730
               }
             },
             {
@@ -735,10 +1474,10 @@
                 "archived": false,
                 "id": 88011908,
                 "language": "Python",
-                "last_commit": "2026-08-17T06:46:47Z",
+                "last_commit": "2026-08-24T07:38:50Z",
                 "owner": "practical-tutorials",
                 "repo": "project-based-learning",
-                "stars": 280481
+                "stars": 280611
               }
             },
             {
@@ -753,7 +1492,7 @@
                 "last_commit": "2025-12-29T19:37:02Z",
                 "owner": "mtdvio",
                 "repo": "every-programmer-should-know",
-                "stars": 100280
+                "stars": 100301
               }
             },
             {
@@ -768,7 +1507,7 @@
                 "last_commit": "2025-10-11T14:51:21Z",
                 "owner": "florinpop17",
                 "repo": "app-ideas",
-                "stars": 97027
+                "stars": 97050
               }
             },
             {
@@ -783,7 +1522,7 @@
                 "last_commit": "2026-07-15T15:55:09Z",
                 "owner": "charlax",
                 "repo": "professional-programming",
-                "stars": 51444
+                "stars": 51443
               }
             },
             {
@@ -798,7 +1537,7 @@
                 "last_commit": "2026-05-28T02:14:37Z",
                 "owner": "Kristories",
                 "repo": "awesome-guidelines",
-                "stars": 11061
+                "stars": 11063
               }
             }
           ],
@@ -820,7 +1559,7 @@
                 "last_commit": "2026-08-19T21:44:19Z",
                 "owner": "public-apis",
                 "repo": "public-apis",
-                "stars": 469035
+                "stars": 469649
               }
             },
             {
@@ -857,7 +1596,7 @@
                 "last_commit": "2026-08-21T14:35:38Z",
                 "owner": "nilbuild",
                 "repo": "developer-roadmap",
-                "stars": 365230
+                "stars": 365303
               }
             },
             {
@@ -872,7 +1611,7 @@
                 "last_commit": "2026-07-23T16:06:45Z",
                 "owner": "github",
                 "repo": "gitignore",
-                "stars": 175420
+                "stars": 175438
               }
             },
             {
@@ -887,7 +1626,7 @@
                 "last_commit": "2024-06-25T18:13:44Z",
                 "owner": "jlevy",
                 "repo": "the-art-of-command-line",
-                "stars": 162161
+                "stars": 162157
               }
             },
             {
@@ -902,7 +1641,7 @@
                 "last_commit": "2026-08-20T23:26:16Z",
                 "owner": "h5bp",
                 "repo": "html5-boilerplate",
-                "stars": 57603
+                "stars": 57601
               }
             },
             {
@@ -917,7 +1656,7 @@
                 "last_commit": "2024-04-18T03:26:59Z",
                 "owner": "minimaxir",
                 "repo": "big-list-of-naughty-strings",
-                "stars": 47708
+                "stars": 47710
               }
             }
           ],
@@ -939,7 +1678,7 @@
                 "last_commit": "2026-08-18T14:16:15Z",
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 395074
+                "stars": 395136
               }
             },
             {
@@ -954,7 +1693,7 @@
                 "last_commit": "2026-08-18T14:16:15Z",
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 395074
+                "stars": 395136
               }
             },
             {
@@ -966,10 +1705,10 @@
                 "archived": false,
                 "id": 15204860,
                 "language": "Shell",
-                "last_commit": "2026-07-01T09:14:27Z",
+                "last_commit": "2026-08-24T09:14:23Z",
                 "owner": "papers-we-love",
                 "repo": "papers-we-love",
-                "stars": 108942
+                "stars": 108967
               }
             },
             {
@@ -1040,7 +1779,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T16:54:49.428Z",
+    "last_updated": "2026-08-24T14:49:46.785Z",
     "original_repository": "websealevel/awesome-fr",
     "original_repository_id": 482432768,
     "original_repository_sha": "a24a180dd391c2e5dab7043567125f8a6bb6c07b",
