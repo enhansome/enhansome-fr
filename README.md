@@ -782,12 +782,12 @@ Le plus recommandé est *de limiter au maximum l'usage de plugins pour vos thèm
 
 > "DevOps is a meaningful term"
 
-* [Devops exercises](https://github.com/bregman-arie/devops-exercises) ⭐ 84,777 | 🐛 56 | 🌐 Python | 📅 2025-12-27, une collection d'exercices et de corrigés sur de nombreux sujets et technologies
+* [Devops exercises](https://github.com/bregman-arie/devops-exercises) ⭐ 84,785 | 🐛 56 | 🌐 Python | 📅 2025-12-27, une collection d'exercices et de corrigés sur de nombreux sujets et technologies
 * [Pourquoi notre workflow Devops est le plus efficace et rentable que vous puissiez trouver aujourd'hui (1ère partie)](https://bearstech.com/societe/blog/pourquoi-mettre-en-oeuvre-un-workflow-devops), de [bearstech](https://bearstech.com/)
 
 ## Tests
 
-* [Agent QA](https://github.com/vostride/agent-qa) ⭐ 899 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03, outil de QA au code source disponible et sans frais logiciels pour écrire et exécuter des tests web et mobiles en langage naturel (les services externes configurés peuvent être payants)
+* [Agent QA](https://github.com/vostride/agent-qa) ⭐ 901 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03, outil de QA au code source disponible et sans frais logiciels pour écrire et exécuter des tests web et mobiles en langage naturel (les services externes configurés peuvent être payants)
 * [Programmer Test Principles](https://medium.com/@kentbeck_7670/programmer-test-principles-d01c064d7934), de Kent Beck;
 * [Test Desiderata](https://medium.com/@kentbeck_7670/test-desiderata-94150638a4b3), de Kent Beck
 
@@ -857,7 +857,7 @@ Sinon vous pouvez mettre en place vous même votre hebergement de gestionnaire d
 
 Une liste non exhaustive d'organismes qui implémentent et maintiennent les standards ouverts dans différents domaines de l'informatique.
 
-* [Interop](https://github.com/web-platform-tests/interop) ⭐ 525 | 🐛 171 | 🌐 JavaScript | 📅 2026-10-06, groupe de travail spécialisé dans l'interopérabilité entre les navigateurs (implémentations des standards du web). Ce groupe maintient notamment [une suite de tests cross-browsers](https://github.com/web-platform-tests/wpt) ⭐ 6,215 | 🐛 2,877 | 🌐 HTML | 📅 2026-10-06
+* [Interop](https://github.com/web-platform-tests/interop) ⭐ 525 | 🐛 171 | 🌐 JavaScript | 📅 2026-10-06, groupe de travail spécialisé dans l'interopérabilité entre les navigateurs (implémentations des standards du web). Ce groupe maintient notamment [une suite de tests cross-browsers](https://github.com/web-platform-tests/wpt) ⭐ 6,214 | 🐛 2,875 | 🌐 HTML | 📅 2026-10-06
 * [OASIS OPEN](https://www.oasis-open.org/), groupe de collaboration (individus, entreprises, gouvernements, etc.) en charge de l'implémentation et de la maintenance de standards informatiques ouverts, comme DITA, DocBook, OData, OpenDocument, etc. [Voir tous les projets ici](https://www.oasis-open.org/projects-committees/).
 * [W3C](https://www.w3.org/), le *World Wide Web Consortium*, en charge de maintenir et développer les standards ouverts du Web.
 * [WHATWG](https://whatwg.org/), le *Web Hypertext Application Technology Working Group* est un groupe de collaboration qui travaille sur la standardisation des navigateurs webs ([voir ici les standards](https://spec.whatwg.org/) sur lesquels ce groupe travaille) et des standards associés comme le protocole WebSocket, le Storage, XMLHttpRequest, etc. C'est un groupe qui a été formé en 2004, suite à un atelier organisé par le W3C, par des personnes travaillant chez Apple, Mozilla et Opera. Il a été crée en réponse au fait que le W3C partait un peu en cavalier seul sur le futur du standard HTML avec XHTML (qui au final a donné HTML5) sans prendre assez en compte l'état de l'industrie du développement informatique. Il représente surtout le côté industrie du web et les *vendor* de navigateur web, et cherche à accélérer le développement des standards pour les implémenter rapidement, *pour le meilleur et pour le pire* (surtout le pire). Aujourd'hui Google et Microsoft ont rejoint ce groupe et il travaille en collaboration avec le W3C dont certains membres en font également partie.
@@ -908,7 +908,7 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 
 ### Standard SQL et bases de données relationnelles
 
-* [DarkMoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 1,002 | 🐛 8 | 🌐 Python | 📅 2026-10-01, plateforme open source française de test d'intrusion autonome pilotée par IA et hébergée sur votre propre infrastructure. Elle couvre le web, les API, l'Active Directory et Kubernetes via un serveur MCP. Éditée en France par ASC IT.
+* [DarkMoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 1,006 | 🐛 8 | 🌐 Python | 📅 2026-10-01, plateforme open source française de test d'intrusion autonome pilotée par IA et hébergée sur votre propre infrastructure. Elle couvre le web, les API, l'Active Directory et Kubernetes via un serveur MCP. Éditée en France par ASC IT.
 
 * [A Relational Model of Data for Large Shared Data Banks, Edgard Codd (PDF)](https://www.google.com/url?sa=t\&rct=j\&q=\&esrc=s\&source=web\&cd=\&ved=2ahUKEwihkqWDrsz8AhXEVaQEHfgyDeIQFnoECBQQAQ\&url=https%3A%2F%2Fwww.seas.upenn.edu%2F~zives%2F03f%2Fcis550%2Fcodd.pdf\&usg=AOvVaw0HymNIyGsw4MDwPW98GlLb), la publication originale de [Edgard Codd](https://fr.wikipedia.org/wiki/Edgar_Frank_Codd) en 1970, père de l'[algèbre relationnelle](https://fr.wikipedia.org/wiki/Alg%C3%A8bre_relationnelle) et du modèle relationnel
 
@@ -934,7 +934,7 @@ Tous ces standards font d'XML un outil à avoir dans sa poche lorsque l'on a bes
 
 ### Sécurité des applications web / Audit
 
-* [KeePassXC Application Security Review](https://molotnikov.de/keepassxc-review), de [Zaur Molotnikov](https://molotnikov.de/cv). Un audit du gestionnaire de mots de passe open source [KeePassXC](https://github.com/keepassxreboot/keepassxc) ⭐ 29,104 | 🐛 910 | 🌐 C++ | 📅 2026-09-30. Contient de nombreuses informations utiles sur son fonctionnement et ses détails d'implémentation. [Télécharger le PDF (version 1.2)](https://molotnikov.de/docs/KeePassXC-Review-V1-Molotnikov.pdf)
+* [KeePassXC Application Security Review](https://molotnikov.de/keepassxc-review), de [Zaur Molotnikov](https://molotnikov.de/cv). Un audit du gestionnaire de mots de passe open source [KeePassXC](https://github.com/keepassxreboot/keepassxc) ⭐ 29,109 | 🐛 909 | 🌐 C++ | 📅 2026-09-30. Contient de nombreuses informations utiles sur son fonctionnement et ses détails d'implémentation. [Télécharger le PDF (version 1.2)](https://molotnikov.de/docs/KeePassXC-Review-V1-Molotnikov.pdf)
 * [OWASP Top Ten : Top 10 Web Application Security Risks](https://owasp.org/www-project-top-ten/), document standardisé des risques de sécurité des applications web. Liste et classifie l'ensemble de risques reconnus comme critiques pour les applications web
 * [OWASP : Attacks](https://owasp.org/www-community/attacks/), la liste des attaques les mieux connues
 * [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/), des synthèses sur les différents types d'attaque et leur prévention
@@ -1048,7 +1048,7 @@ Des documents décrivant les aspects et spécifications techniques d'Internet. L
 
 ### PHP
 
-* [phpCodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) ⭐ 10,770 | 🐛 248 | 🌐 PHP | 📅 2024-04-01, l'outil par excellence pour appliquer des standards de manière semiautomatisé à son code source. Composé de deux programmes: phpcs pour sniffer les erreurs dans votre code et phpcbs pour corriger automatiquement ce qui peut l'être.
+* [phpCodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) ⭐ 10,769 | 🐛 248 | 🌐 PHP | 📅 2024-04-01, l'outil par excellence pour appliquer des standards de manière semiautomatisé à son code source. Composé de deux programmes: phpcs pour sniffer les erreurs dans votre code et phpcbs pour corriger automatiquement ce qui peut l'être.
 * [php.watch](https://php.watch/), news PHP, articles, changements à venir. Le blog officiel qui suit le développement de PHP
 * [PHP: The Right Way](https://phptherightway.com/) référence accessible aux standards modernes de PHP
 * [The PHP Foundation](https://thephp.foundation/), groupe de travail sur l'écosystème PHP. [En savoir plus](https://www.youtube.com/watch?v=JBPtPy9iSP0).
@@ -1090,7 +1090,7 @@ Des documents décrivant les aspects et spécifications techniques d'Internet. L
 
 ### Docker et conteneurs
 
-* [Docker Bench for Security](https://github.com/docker/docker-bench-security) ⭐ 9,704 | 🐛 28 | 🌐 Shell | 📅 2026-06-04, ensemble de scripts open-source qui permet d'auditer de manière automatique l'installation et la configuration du serveur Docker en environnement de production
+* [Docker Bench for Security](https://github.com/docker/docker-bench-security) ⭐ 9,703 | 🐛 28 | 🌐 Shell | 📅 2026-06-04, ensemble de scripts open-source qui permet d'auditer de manière automatique l'installation et la configuration du serveur Docker en environnement de production
 * [Un conteneur Linux, qu'est-ce que c'est ?](https://www.redhat.com/fr/topics/containers/whats-a-linux-container), publié par RedHat
 * [Docker Tag Guide | Purpose, Usage, and Examples](https://ioflood.com/blog/docker-tag-guide-purpose-usage-and-examples/), un article et guide sur la manière de tag correctement les images pour implémenter un versionnement sémantique
 * [Simplify the Smallest Possible Docker Image](https://medium.com/@adriaandejonge/simplify-the-smallest-possible-docker-image-62c0e0d342ef), de Adriaan de Jonge
@@ -1110,7 +1110,7 @@ Des documents décrivant les aspects et spécifications techniques d'Internet. L
 
 ## Dessin et diagrammes
 
-* [nomnoml](https://github.com/skanaar/nomnoml) ⭐ 2,837 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-19, un outil pour script le rendu de diagrammes UML
+* [nomnoml](https://github.com/skanaar/nomnoml) ⭐ 2,838 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-19, un outil pour script le rendu de diagrammes UML
 * [Umlet](https://www.umlet.com/), meilleur outil crossplatform pour réaliser des diagrammes UML rapidement, faciles à partager et éditer (dans l'esprit UML 1)
 * [dia](http://dia-installer.de/), programme opensource et crossplatform pour dessiner des diagrammes structurés
 * [excalidraw](https://excalidraw.com/), dessiner des diagrammes rapidement avec un look and feel *fait-main*, en local ou sur le web
@@ -1237,8 +1237,8 @@ Facile à apprendre, facile à exporter vers tout un tas de formats markup (HTML
 
 Markdown est un "standard (volontairement) incomplet" ce qui a laissé la place à de nombreuses implémentations différentes.
 
-* [CommonMark](https://commonmark.org/), [une spécification Markdown](https://spec.commonmark.org/) créée en 2004 par John Gruber et Aaron Swartz, [implémentée dans de nombreux langages de programmation](https://github.com/commonmark/commonmark-spec/wiki/List-of-CommonMark-Implementations) ⭐ 5,148 | 🐛 134 | 🌐 Python | 📅 2026-04-27
-* [Markstream](https://github.com/Simon-He95/markstream-vue) ⭐ 3,026 | 🐛 1 | 🌐 Vue | 📅 2026-10-05, bibliothèque open source pour afficher du Markdown en flux continu dans les interfaces de chat IA ; compatible avec Vue/Nuxt, React, Svelte, Angular et Vue 2, avec Mermaid, KaTeX et coloration syntaxique.
+* [CommonMark](https://commonmark.org/), [une spécification Markdown](https://spec.commonmark.org/) créée en 2004 par John Gruber et Aaron Swartz, [implémentée dans de nombreux langages de programmation](https://github.com/commonmark/commonmark-spec/wiki/List-of-CommonMark-Implementations) ⭐ 5,149 | 🐛 134 | 🌐 Python | 📅 2026-04-27
+* [Markstream](https://github.com/Simon-He95/markstream-vue) ⭐ 3,025 | 🐛 1 | 🌐 Vue | 📅 2026-10-05, bibliothèque open source pour afficher du Markdown en flux continu dans les interfaces de chat IA ; compatible avec Vue/Nuxt, React, Svelte, Angular et Vue 2, avec Mermaid, KaTeX et coloration syntaxique.
 * [Liste des implémentations Markdown](https://github.com/markdown/markdown.github.com/wiki/Implementations) ⭐ 245 | 🐛 8 | 🌐 CSS | 📅 2023-06-26, les différentes implémentations ou *parsers* Markdown
 * [Apprendre CommonMark en quelques minutes](https://commonmark.org/help/)
 * [MultiMarkdown](https://fletcherpenney.net/multimarkdown/), **superset de Markdown qui permet de produire des document complets bien formés**. Ajoute des features utiles manquantes à Markdown, notamment la gestion de meta-données et tout ce qui touche à la **connectivité entre documents Markdown**
@@ -1262,7 +1262,7 @@ Markdown est un "standard (volontairement) incomplet" ce qui a laissé la place 
 
 ### Outils d'écriture et de publication
 
-* [typst](https://github.com/typst/typst) ⭐ 56,429 | 🐛 1,297 | 🌐 Rust | 📅 2026-10-06, langage markup destiné à produire des documents complets. Se place sur le même terrain que LaTeX.
+* [typst](https://github.com/typst/typst) ⭐ 56,445 | 🐛 1,298 | 🌐 Rust | 📅 2026-10-06, langage markup destiné à produire des documents complets. Se place sur le même terrain que LaTeX.
 * [Asciidoc](https://asciidoc.org/), un langage markup texte dédié à la rédaction de contenus techniques
 * [Texinfo](https://www.gnu.org/software/texinfo/), le format officiel de la documentation du projet GNU. [Voir la doc de texinfo](https://savannah.gnu.org/projects/texinfo), [voir le manuel de texinfo](https://www.gnu.org/software/texinfo/manual/texinfo/texinfo.html) (écrit avec texinfo bien entendu)
 * [reStructuredText + Sphinx](https://www.sphinx-doc.org/en/master/), création de documents structurés à partir d'un langage markup simple. Utilisé par l'équipe du noyau Linux pour produire sa documentation. Sphinx permet aussi d'utiliser différentes implémentations de Markdown
@@ -1322,7 +1322,7 @@ Aujourd'hui il y a tellement de webservices gratuits pour le faire. Mais quand i
 
 ## IA Génératives
 
-* [Augmented Coding Patterns](https://lexler.github.io/augmented-coding-patterns/), une collection documentée de patterns dont s'inspirer dans un workflow basé sur l'interaction/intégration d'un LLM, guide/retex initialement écrit par [Lada Kesseler](https://github.com/lexler/augmented-coding-patterns) ⭐ 406 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-02;
+* [Augmented Coding Patterns](https://lexler.github.io/augmented-coding-patterns/), une collection documentée de patterns dont s'inspirer dans un workflow basé sur l'interaction/intégration d'un LLM, guide/retex initialement écrit par [Lada Kesseler](https://github.com/lexler/augmented-coding-patterns) ⭐ 407 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-02;
 
 ## Androïd
 
@@ -1542,13 +1542,13 @@ Pour apprendre les bases du web, mettre en prod, configurer un serveur, la progr
 ## Compilateurs, interpréteurs
 
 * [Compiler Explorer](https://godbolt.org/), un petit outil en ligne qui transforme votre code en code assembleur sur différentes architectures. Un outil intéressant pour expérimenter.
-* [A Compiler Writing Journey (en)](https://github.com/DoctorWkt/acwj) ⭐ 13,457 | 🐛 25 | 🌐 C | 📅 2026-06-06, le dépôt de [DoctorWtk](https://github.com/DoctorWkt). Il y documente étape par étape le développement d'un compilateur pour un subset du langage C. Un véritable livre en ligne avec exemples et pratiques, parfait pour débuter le voyage sur les compilateurs.
+* [A Compiler Writing Journey (en)](https://github.com/DoctorWkt/acwj) ⭐ 13,461 | 🐛 25 | 🌐 C | 📅 2026-06-06, le dépôt de [DoctorWtk](https://github.com/DoctorWkt). Il y documente étape par étape le développement d'un compilateur pour un subset du langage C. Un véritable livre en ligne avec exemples et pratiques, parfait pour débuter le voyage sur les compilateurs.
 * [Crafting Interpreters (en)](https://craftinginterpreters.com/), le site du livre éponyme de Robert Nystrom, développeur actif du langage Dart chez Google. Tout le livre est gratuit en ligne ! Une référence d'un auteur sérieux qui a déjà à son actif quelques ouvrages de grande qualité (dont [Game Programming Patterns](http://gameprogrammingpatterns.com/), lui aussi complètement gratuit en ligne).
 
 ## Mathématiques, mathématiques et informatique et autres aspects *bas niveau*
 
-* [tiny-gpu](https://github.com/adam-maj/tiny-gpu) ⭐ 13,051 | 🐛 43 | 🌐 SystemVerilog | 📅 2024-08-18, une implémentation GPU minimale pour apprendre le fonctionnement des GPU
-* [Category Theory For Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf) ⭐ 11,696 | 🐛 67 | 🌐 TeX | 📅 2026-07-10, de Bartosz Milewski
+* [tiny-gpu](https://github.com/adam-maj/tiny-gpu) ⭐ 13,050 | 🐛 43 | 🌐 SystemVerilog | 📅 2024-08-18, une implémentation GPU minimale pour apprendre le fonctionnement des GPU
+* [Category Theory For Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf) ⭐ 11,694 | 🐛 67 | 🌐 TeX | 📅 2026-07-10, de Bartosz Milewski
 * [That XOR Trick](https://florian.github.io//xor-trick/), de Florian Hartmann
 * [Computer Organization and Design Fundamentals](https://faculty.etsu.edu/tarnoff/138292/), de David Tarnoff, 2005-2007
 * [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.fr/Code-Language-Computer-Hardware-Software-dp-0137909101/dp/0137909101/ref=dp_ob_title_bk), de Charles Petzold (1ere ou 2nd édition), publiée chez Addison Wesley, 2022. Un *classique* sur le fonctionnement des ordinateurs et l'encodage de l'information. Un must-read
@@ -1835,7 +1835,7 @@ La conférence annuelle de la communauté du développement du jeux vidéos. [De
 
 ### Playlists
 
-* [Category Theory](https://www.youtube.com/watch?v=I8LbkfSSR58\&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_), de Bartosz Milewski. Pour les programmeur·ses. Passionant ! [Voir le dépôt associé (livre)](https://github.com/hmemcpy/milewski-ctfp-pdf) ⭐ 11,696 | 🐛 67 | 🌐 TeX | 📅 2026-07-10
+* [Category Theory](https://www.youtube.com/watch?v=I8LbkfSSR58\&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_), de Bartosz Milewski. Pour les programmeur·ses. Passionant ! [Voir le dépôt associé (livre)](https://github.com/hmemcpy/milewski-ctfp-pdf) ⭐ 11,694 | 🐛 67 | 🌐 TeX | 📅 2026-07-10
 * [Engineering Blogs Dissections](https://www.youtube.com/playlist?app=desktop\&list=PLsdq-3Z1EPT0RrDebPvBNlmuXDfT6Qs2T), d'[Arpit Bhayani](https://arpitbhayani.me/). Série de vidéos qui *review* des articles techniques présentant la solution trouvée à des problèmes pratiques de design et de systèmes
 * [MIT Course : Structure and Interpretation of computer programs, 1986](https://youtube.com/playlist?list=PLE18841CABEA24090), de l'or en barre
 * [Playlist de conférences et vidéos informatique](https://youtube.com/playlist?list=PLS3XEhTy6-Ale8Et6pxRR2I3LYNt8-rX3), une playlist de conférences en informatique maintenue par un des auteurs du dépôt. Sujets divers
@@ -1927,14 +1927,14 @@ D'autres dépôts comme celui-ci.
 
 ### Général
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,355 | 🐛 106 | 📅 2026-09-02, le dépôt originel des dépôts listant des bonnes ressources sur des sujets intéressants
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,596 | 🐛 106 | 📅 2026-09-02, le dépôt originel des dépôts listant des bonnes ressources sur des sujets intéressants
 * [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) ⚠️ Archived, une liste de sites web utiles aux programmeu·r·ses
 * [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) ⚠️ Archived, une liste de sites web utiles pour les programmeur·ses
-* [design resources for developer](https://github.com/bradtraversy/design-resources-for-developers) ⭐ 67,088 | 🐛 14 | 📅 2026-10-05
-* [Design Resources for developers](https://github.com/bradtraversy/design-resources-for-developers) ⭐ 67,088 | 🐛 14 | 📅 2026-10-05,  un autre dépôt maintenant une liste de ressources pour le design/composants web
-* [Awesome Web Development Resources](https://github.com/markodenic/web-development-resources) ⭐ 8,102 | 🐛 16 | 🌐 JavaScript | 📅 2026-06-09, un dépôt impressionant (et mieux organisé que celui-ci) référençant des tonnes de ressources pour le développement web
+* [design resources for developer](https://github.com/bradtraversy/design-resources-for-developers) ⭐ 67,091 | 🐛 14 | 📅 2026-10-06
+* [Design Resources for developers](https://github.com/bradtraversy/design-resources-for-developers) ⭐ 67,091 | 🐛 14 | 📅 2026-10-06,  un autre dépôt maintenant une liste de ressources pour le design/composants web
+* [Awesome Web Development Resources](https://github.com/markodenic/web-development-resources) ⭐ 8,103 | 🐛 16 | 🌐 JavaScript | 📅 2026-06-09, un dépôt impressionant (et mieux organisé que celui-ci) référençant des tonnes de ressources pour le développement web
 * [awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources) ⭐ 5,774 | 🐛 33 | 📅 2025-07-16
-* [Web Development Resources You Ever Need](https://github.com/iamismile/web-dev-resources) ⭐ 789 | 🐛 0 | 📅 2026-10-04, un dépôt maintenant une liste de ressources pour le développement web
+* [Web Development Resources You Ever Need](https://github.com/iamismile/web-dev-resources) ⭐ 789 | 🐛 1 | 📅 2026-10-04, un dépôt maintenant une liste de ressources pour le développement web
 * [Web development resources](https://github.com/MilanAryal/web-development-resources) ⭐ 221 | 🐛 24 | 📅 2024-08-10, un autre dépôt maintenant une liste de ressources pour le dev
 * [Free web development resources](https://markodenic.com/free-web-development-resources/), un site maintenant une liste de ressources pour le développement web
 * [webcode.tools](https://webcode.tools/)
@@ -1945,7 +1945,7 @@ D'autres dépôts comme celui-ci.
 
 ### Sécurité
 
-* [Damn Vulnerable Web Application](https://github.com/digininja/DVWA) ⭐ 13,775 | 🐛 7 | 🌐 PHP | 📅 2026-10-05, une application web PHP/MySQL extrêmement vulnérable. Son objectif principal est d'aider les professionnels de la sécurité à tester leurs compétences et leurs outils dans un environnement légal, d'aider les développeurs web à mieux comprendre les processus de sécurisation des applications web et d'aider à la fois les étudiants et les enseignants à apprendre la sécurité des applications web dans un environnement de classe contrôlé.
+* [Damn Vulnerable Web Application](https://github.com/digininja/DVWA) ⭐ 13,775 | 🐛 8 | 🌐 PHP | 📅 2026-10-05, une application web PHP/MySQL extrêmement vulnérable. Son objectif principal est d'aider les professionnels de la sécurité à tester leurs compétences et leurs outils dans un environnement légal, d'aider les développeurs web à mieux comprendre les processus de sécurisation des applications web et d'aider à la fois les étudiants et les enseignants à apprendre la sécurité des applications web dans un environnement de classe contrôlé.
 
 ### Outils "*no code*", "*low code*" ou plutot *visual code*
 
@@ -1953,8 +1953,8 @@ D'autres dépôts comme celui-ci.
 
 ### Côté client (*Front-end*)
 
-* [front end  checklist](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 74,380 | 🐛 5 | 🌐 MDX | 📅 2026-10-05, liste tout ce que vous devez pensez à checker sur votre front avant d'envoyer en prod
-* [frontend dev bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) ⭐ 47,591 | 🐛 136 | 📅 2024-05-21, une liste de ressources de qualité pour les développeurs frontend
+* [front end  checklist](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 74,381 | 🐛 5 | 🌐 MDX | 📅 2026-10-06, liste tout ce que vous devez pensez à checker sur votre front avant d'envoyer en prod
+* [frontend dev bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) ⭐ 47,589 | 🐛 135 | 📅 2024-05-21, une liste de ressources de qualité pour les développeurs frontend
 * [css-protips](https://github.com/AllThingsSmitty/css-protips) ⭐ 30,287 | 🐛 1 | 📅 2026-09-23, un dépôt qui documente tout un tas de conseils pour le CSS avec exemples à l'appui
 * [Frontend stuff](https://github.com/moklick/frontend-stuff) ⭐ 8,954 | 🐛 19 | 📅 2024-06-26, liste de tous les frameworks et libs côté client (CSS et JS surtout)
 * [Jonas' Resources for Hand-Crafting Beautiful and Performant Websites](https://codingheroes.io/resources/)
@@ -1962,8 +1962,8 @@ D'autres dépôts comme celui-ci.
 
 ### Développement de jeux vidéos
 
-* [Magic tools](https://github.com/ellisonleao/magictools) ⭐ 17,435 | 🐛 31 | 🌐 Markdown | 📅 2026-09-26, un autre dépôt recenssant une tonne de ressources pour le développement de jeux vidéos (asset, code, design, outils, etc.)
-* [GameDev Ressources](https://github.com/Kavex/GameDev-Resources) ⭐ 7,029 | 🐛 24 | 📅 2026-04-10, un dépôt recenssant une tonne de ressources pour le développement de jeux vidéos (asset, code, design, outils, etc.)
+* [Magic tools](https://github.com/ellisonleao/magictools) ⭐ 17,431 | 🐛 31 | 🌐 Markdown | 📅 2026-10-06, un autre dépôt recenssant une tonne de ressources pour le développement de jeux vidéos (asset, code, design, outils, etc.)
+* [GameDev Ressources](https://github.com/Kavex/GameDev-Resources) ⭐ 7,031 | 🐛 25 | 📅 2026-04-10, un dépôt recenssant une tonne de ressources pour le développement de jeux vidéos (asset, code, design, outils, etc.)
 * [Keys to Economic Systems](https://gdkeys.com/keys-to-economic-systems/?utm_source=pocket_mylist), un excellent article sur la modélisation de systèmes économiques dans un jeu vidéo.
 * [Game Loop, game programming pattern](https://gameprogrammingpatterns.com/game-loop.html), un article complet sur l'implémentation d'une game loop et ses différentes variantes
 * [Fix Your Timestep!](https://gafferongames.com/post/fix_your_timestep/), un classique de Glenn Fiedler sur son site [Gaffer On Games](https://gafferongames.com/)
@@ -1972,12 +1972,12 @@ D'autres dépôts comme celui-ci.
 
 ### Applications web et réseaux à héberger *soi-même*
 
-* [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 324,251 | 🐛 0 | 📅 2026-10-04, un dépôt qui liste des logiciels libres (free software) webs et réseau à herberger soi-même
+* [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 324,379 | 🐛 0 | 📅 2026-10-06, un dépôt qui liste des logiciels libres (free software) webs et réseau à herberger soi-même
 
 ### Conférences
 
 * [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) ⭐ 6,199 | 🐛 30 | 📅 2026-09-24, un dépôt maintenant une liste de conférences tech, sacré taff
-* [Developers Conferences Agenda/List](https://github.com/scraly/developers-conferences-agenda) ⭐ 2,004 | 🐛 14 | 🌐 JavaScript | 📅 2026-10-05, agenda des conférences tech dans le monde
+* [Developers Conferences Agenda/List](https://github.com/scraly/developers-conferences-agenda) ⭐ 2,004 | 🐛 13 | 🌐 JavaScript | 📅 2026-10-06, agenda des conférences tech dans le monde
 
 ### Revues et magazines informatiques
 
@@ -1991,8 +1991,8 @@ D'autres dépôts comme celui-ci.
 
 #### PHP
 
-* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,729 | 🐛 94 | 📅 2026-09-27, une liste organisée de ressources pour PHP (lib, books, podcasts, frameworks...)
-* [Clean Code PHP](https://github.com/jupeter/clean-code-php) ⭐ 12,448 | 🐛 30 | 🌐 PHP | 📅 2024-05-09, des principes de clean code appliqués à PHP
+* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,728 | 🐛 94 | 📅 2026-09-27, une liste organisée de ressources pour PHP (lib, books, podcasts, frameworks...)
+* [Clean Code PHP](https://github.com/jupeter/clean-code-php) ⭐ 12,449 | 🐛 30 | 🌐 PHP | 📅 2024-05-09, des principes de clean code appliqués à PHP
 * [awesome PHP security](https://github.com/guardrailsio/awesome-php-security) ⭐ 1,036 | 🐛 8 | 📅 2023-09-14, une liste organisée de ressources pour la sécurité des applications PHP
 
 #### Java
@@ -2002,7 +2002,7 @@ D'autres dépôts comme celui-ci.
 
 #### JS
 
-* [airbnb/javascript](https://github.com/airbnb/javascript) ⭐ 148,304 | 🐛 168 | 🌐 JavaScript | 📅 2026-04-16, le guide des bonnes pratiques JS d'airbnb
+* [airbnb/javascript](https://github.com/airbnb/javascript) ⭐ 148,297 | 🐛 168 | 🌐 JavaScript | 📅 2026-04-16, le guide des bonnes pratiques JS d'airbnb
 * [awesome-fp-js](https://github.com/stoeffel/awesome-fp-js) ⭐ 6,037 | 🐛 1 | 📅 2026-01-15, la même sur la programmation fonctionnelle
 * [awesome-json](https://github.com/burningtree/awesome-json) ⭐ 1,572 | 🐛 127 | 📅 2026-06-19, la même sur des lib et ressources pour le json
 * [awesome-jquery](https://github.com/petk/awesome-jquery) ⭐ 980 | 🐛 0 | 📅 2026-01-01, la même sur Jquery
@@ -2014,59 +2014,59 @@ D'autres dépôts comme celui-ci.
 
 #### Vue.js
 
-* [awesome-vue](https://github.com/vuejs/awesome-vue) ⭐ 73,533 | 🐛 85 | 📅 2026-10-01
+* [awesome-vue](https://github.com/vuejs/awesome-vue) ⭐ 73,531 | 🐛 86 | 📅 2026-10-01
 
 #### Node.js
 
-* [wesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security) ⭐ 3,046 | 🐛 24 | 📅 2026-08-14, la même sur des ressources pour sécuriser ses projets node.js
+* [wesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security) ⭐ 3,046 | 🐛 26 | 📅 2026-08-14, la même sur des ressources pour sécuriser ses projets node.js
 
 #### Flutter
 
-* [awesome-flutter](https://github.com/Solido/awesome-flutter) ⭐ 61,428 | 🐛 38 | 🌐 Dart | 📅 2026-09-03, un dépôt qui maintient une liste filtrée de ressources pour Flutter
+* [awesome-flutter](https://github.com/Solido/awesome-flutter) ⭐ 61,429 | 🐛 38 | 🌐 Dart | 📅 2026-09-03, un dépôt qui maintient une liste filtrée de ressources pour Flutter
 
 ### Projets open-source
 
-* [awesomo](https://github.com/lk-geimfari/awesomo) ⭐ 9,943 | 🐛 12 | 🌐 Markdown | 📅 2026-09-13, une liste de projets open-source intéressants (notamment si on veut se mettre à contribuer à l'open source)
+* [awesomo](https://github.com/lk-geimfari/awesomo) ⭐ 9,942 | 🐛 12 | 🌐 Markdown | 📅 2026-09-13, une liste de projets open-source intéressants (notamment si on veut se mettre à contribuer à l'open source)
 
 ### Design et architecture logicielle
 
-* [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) ⭐ 49,225 | 🐛 27 | 📅 2024-10-25, des solutions réutilisables face à des problèmes courants d'architecture logicielle
-* [A comprehensive list of books on Software Architecture](https://github.com/mhadidg/software-architecture-books) ⭐ 11,374 | 🐛 3 | 📅 2023-03-15
+* [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) ⭐ 49,230 | 🐛 27 | 📅 2024-10-25, des solutions réutilisables face à des problèmes courants d'architecture logicielle
+* [A comprehensive list of books on Software Architecture](https://github.com/mhadidg/software-architecture-books) ⭐ 11,372 | 🐛 3 | 📅 2023-03-15
 
 ### Apprendre
 
-* [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) ⭐ 551,793 | 🐛 668 | 🌐 Markdown | 📅 2026-07-14, des guides sélectionnés et corrigés pour recréer des logiciels que vous utilisez tous les jours (client BitTorrent, Bot, CLI, git, etc.). Vous permet de comprendre comment ces logiciels fonctionnent et d'apprendre des technos
-* [The design system primer](https://github.com/donnemartin/system-design-primer) ⭐ 373,342 | 🐛 624 | 🌐 Python | 📅 2026-09-15, dépôt qui liste de nombreuses ressources pour apprendre à designer des systèmes informatiques sur le web. Focus sur la préparation aux entretiens
-* [system-design-primer](https://github.com/donnemartin/system-design-primer) ⭐ 373,342 | 🐛 624 | 🌐 Python | 📅 2026-09-15, apprendre comment designer des grands systèmes d'information
-* [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ⭐ 286,012 | 🐛 259 | 🌐 Python | 📅 2026-10-05, une liste de tutoriels dans différents languages pour apprendre des technos sur des idées de projet
-* [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) ⭐ 100,521 | 🐛 28 | 📅 2025-12-29, un immense dépôt qui agrège une collection de savoirs techniques bon à connaître ou à découvrir lorsqu'on est développeur.
-* [app-ideas](https://github.com/florinpop17/app-ideas) ⭐ 97,967 | 🐛 603 | 📅 2025-10-11, des idées d'applications à développer si on est en panne d'inspiration
-* [professional-programming](https://github.com/charlax/professional-programming) ⭐ 51,608 | 🐛 12 | 🌐 Python | 📅 2026-09-29, collection de ressources pour apprendre sur tout un tas de sujets liés aux webs
-* [awesome-guidelines](https://github.com/Kristories/awesome-guidelines) ⭐ 11,153 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-28, les standards d'écriture adapotés par chaque communauté (langage/techno)
+* [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) ⭐ 551,863 | 🐛 668 | 🌐 Markdown | 📅 2026-07-14, des guides sélectionnés et corrigés pour recréer des logiciels que vous utilisez tous les jours (client BitTorrent, Bot, CLI, git, etc.). Vous permet de comprendre comment ces logiciels fonctionnent et d'apprendre des technos
+* [The design system primer](https://github.com/donnemartin/system-design-primer) ⭐ 373,395 | 🐛 624 | 🌐 Python | 📅 2026-09-15, dépôt qui liste de nombreuses ressources pour apprendre à designer des systèmes informatiques sur le web. Focus sur la préparation aux entretiens
+* [system-design-primer](https://github.com/donnemartin/system-design-primer) ⭐ 373,395 | 🐛 624 | 🌐 Python | 📅 2026-09-15, apprendre comment designer des grands systèmes d'information
+* [project-based-learning](https://github.com/practical-tutorials/project-based-learning) ⭐ 286,079 | 🐛 259 | 🌐 Python | 📅 2026-10-05, une liste de tutoriels dans différents languages pour apprendre des technos sur des idées de projet
+* [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) ⭐ 100,520 | 🐛 28 | 📅 2025-12-29, un immense dépôt qui agrège une collection de savoirs techniques bon à connaître ou à découvrir lorsqu'on est développeur.
+* [app-ideas](https://github.com/florinpop17/app-ideas) ⭐ 97,973 | 🐛 603 | 📅 2025-10-11, des idées d'applications à développer si on est en panne d'inspiration
+* [professional-programming](https://github.com/charlax/professional-programming) ⭐ 51,606 | 🐛 12 | 🌐 Python | 📅 2026-09-29, collection de ressources pour apprendre sur tout un tas de sujets liés aux webs
+* [awesome-guidelines](https://github.com/Kristories/awesome-guidelines) ⭐ 11,156 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-28, les standards d'écriture adapotés par chaque communauté (langage/techno)
 * [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html), de Peter Norvig.
 * [A Data-Centric Introduction to Computing](https://dcic-world.org/2023-02-21/index.html), de Kathi Fisler, Shriram Krishnamurthi, Benjamin S. Lerner, Joe Gibbs Politz
 
 ### API web publiques
 
-* [public-apis](https://github.com/public-apis/public-apis) ⭐ 486,433 | 🐛 2,024 | 🌐 Python | 📅 2026-10-05, une collection d'API publiques classées par thématique. Magnifique travail
+* [public-apis](https://github.com/public-apis/public-apis) ⭐ 486,542 | 🐛 2,038 | 🌐 Python | 📅 2026-10-05, une collection d'API publiques classées par thématique. Magnifique travail
 * [markodenic/public-apis](https://github.com/markodenic/public-apis) ⭐ 206 | 🐛 5 | 🌐 HTML | 📅 2025-12-08, un autre dépôt listant des api publiques, par [Marko Denic](https://markodenic.com/)
 
 ### Divers
 
-* [developer roadmap](https://github.com/kamranahmedse/developer-roadmap) ⭐ 369,004 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-06, un dépôt qui propose des chemins d'apprentissage pour les différents postes du web
-* [gitignore](https://github.com/github/gitignore) ⭐ 176,027 | 🐛 67 | 📅 2026-10-02, une collection de templates pour vos fichiers `.gitignore`
-* [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,575 | 🐛 256 | 📅 2024-06-25, s'améliorer en ligne de commande
+* [developer roadmap](https://github.com/kamranahmedse/developer-roadmap) ⭐ 369,025 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-06, un dépôt qui propose des chemins d'apprentissage pour les différents postes du web
+* [gitignore](https://github.com/github/gitignore) ⭐ 176,032 | 🐛 67 | 📅 2026-10-02, une collection de templates pour vos fichiers `.gitignore`
+* [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,573 | 🐛 256 | 📅 2024-06-25, s'améliorer en ligne de commande
 * [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) ⭐ 57,642 | 🐛 20 | 🌐 JavaScript | 📅 2026-10-02, un template de départ professionnel pour vos fichiers html
-* [big-list-of-naughty-string](https://github.com/minimaxir/big-list-of-naughty-strings) ⭐ 47,727 | 🐛 108 | 🌐 Python | 📅 2024-04-18, un dépôt qui recense toutes les chaînes de caractères qui pourraient poser problème quand elles entrent dans votre application
+* [big-list-of-naughty-string](https://github.com/minimaxir/big-list-of-naughty-strings) ⭐ 47,730 | 🐛 108 | 🌐 Python | 📅 2024-04-18, un dépôt qui recense toutes les chaînes de caractères qui pourraient poser problème quand elles entrent dans votre application
 * [coding horror posts](https://gist.github.com/tssm/7789984), un dépôt qui liste les posts de [coding horror](https://blog.codinghorror.com/)
 
 ### Lecture : articles, livres techniques (informatique, mathématiques)
 
 Lisez !
 
-* [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ⭐ 398,580 | 🐛 81 | 🌐 Python | 📅 2026-10-05,  un dépôt qui héberge une tonne de bouquins techniques au format PDF maintenu par la [Free Ebook Foundation](https://ebookfoundation.org/)
-* [free-programming-books en français](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-fr.md) ⭐ 398,580 | 🐛 81 | 🌐 Python | 📅 2026-10-05, même dépôt que précédemment mais listant que des livres de programmation en français !
-* [papers we love](https://github.com/papers-we-love/papers-we-love) ⭐ 110,281 | 🐛 4 | 🌐 Shell | 📅 2026-09-29, un dépôt recensant et hébergeant (quand c'est possible) tout un tas d'articles sur l'informatique. Recense également une collection de sites pour trouver des papiers intéressants à lire
+* [free-programming-books](https://github.com/EbookFoundation/free-programming-books) ⭐ 398,603 | 🐛 81 | 🌐 Python | 📅 2026-10-05,  un dépôt qui héberge une tonne de bouquins techniques au format PDF maintenu par la [Free Ebook Foundation](https://ebookfoundation.org/)
+* [free-programming-books en français](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-fr.md) ⭐ 398,603 | 🐛 81 | 🌐 Python | 📅 2026-10-05, même dépôt que précédemment mais listant que des livres de programmation en français !
+* [papers we love](https://github.com/papers-we-love/papers-we-love) ⭐ 110,291 | 🐛 4 | 🌐 Shell | 📅 2026-09-29, un dépôt recensant et hébergeant (quand c'est possible) tout un tas d'articles sur l'informatique. Recense également une collection de sites pour trouver des papiers intéressants à lire
 * [techbooks](https://github.com/zouyanjian/techbooks/tree/master/history_books) ⭐ 95 | 🐛 0 | 📅 2013-07-17, un dépôt qui héberge une tonne de bouquins techniques au format PDF
 * [welib (anciennement PDFDrive)](https://welib.org/), un site web qui scrap le web en quête de livres dans de nombreux formats pour vous permettre de les télécharger. Application de **service publique**
 * [Become a Programmer, Motherfucker](https://programming-motherfucker.com/become.html)
