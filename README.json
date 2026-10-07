@@ -21,7 +21,7 @@
                 "open_issues": 1,
                 "owner": "kevquirk",
                 "repo": "simple.css",
-                "stars": 5015,
+                "stars": 5014,
                 "topics": [
                   "css",
                   "css3",
@@ -137,7 +137,7 @@
             "open_issues": 56,
             "owner": "bregman-arie",
             "repo": "devops-exercises",
-            "stars": 84785,
+            "stars": 84799,
             "topics": [
               "ansible",
               "aws",
@@ -231,7 +231,7 @@
                 "language": "JavaScript",
                 "license": null,
                 "last_commit": "2026-10-06T08:20:29Z",
-                "open_issues": 171,
+                "open_issues": 172,
                 "owner": "web-platform-tests",
                 "repo": "interop",
                 "stars": 525,
@@ -262,7 +262,7 @@
                 "open_issues": 8,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 1006,
+                "stars": 1007,
                 "topics": [
                   "active-directory",
                   "ai-penetration-testing",
@@ -308,10 +308,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-30T04:25:51Z",
-                "open_issues": 909,
+                "open_issues": 922,
                 "owner": "keepassxreboot",
                 "repo": "keepassxc",
-                "stars": 29109,
+                "stars": 29120,
                 "topics": [
                   "cross-platform",
                   "hacktoberfest",
@@ -352,7 +352,7 @@
             "id": 110509662,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-05T23:15:08Z",
+            "last_commit": "2026-10-07T17:07:22Z",
             "open_issues": 1,
             "owner": "toedter",
             "repo": "hal-explorer",
@@ -475,7 +475,7 @@
                 "open_issues": 28,
                 "owner": "docker",
                 "repo": "docker-bench-security",
-                "stars": 9703,
+                "stars": 9702,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:26.281Z"
@@ -768,7 +768,7 @@
             "open_issues": 1,
             "owner": "mikepqr",
             "repo": "resume-markdown",
-            "stars": 663,
+            "stars": 664,
             "topics": [
               "markdown",
               "resume"
@@ -796,11 +796,11 @@
                 "id": 210702427,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T15:17:37Z",
-                "open_issues": 1298,
+                "last_commit": "2026-10-07T20:25:14Z",
+                "open_issues": 1300,
                 "owner": "typst",
                 "repo": "typst",
-                "stars": 56445,
+                "stars": 56473,
                 "topics": [
                   "compiler",
                   "markup",
@@ -879,7 +879,7 @@
                     "open_issues": 12,
                     "owner": "tjko",
                     "repo": "jpegoptim",
-                    "stars": 1817,
+                    "stars": 1819,
                     "topics": [
                       "image-optimization",
                       "jpeg-encoder",
@@ -1031,7 +1031,7 @@
             "open_issues": 43,
             "owner": "adam-maj",
             "repo": "tiny-gpu",
-            "stars": 13050,
+            "stars": 13054,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:26.281Z"
@@ -1052,7 +1052,7 @@
             "open_issues": 67,
             "owner": "hmemcpy",
             "repo": "milewski-ctfp-pdf",
-            "stars": 11694,
+            "stars": 11695,
             "topics": [
               "category-theory",
               "cpp",
@@ -1125,7 +1125,7 @@
                 "open_issues": 67,
                 "owner": "hmemcpy",
                 "repo": "milewski-ctfp-pdf",
-                "stars": 11694,
+                "stars": 11695,
                 "topics": [
                   "category-theory",
                   "cpp",
@@ -1225,7 +1225,7 @@
                 "open_issues": 106,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 515596,
+                "stars": 516056,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1252,7 +1252,7 @@
                 "open_issues": 1002,
                 "owner": "sdmg15",
                 "repo": "Best-websites-a-programmer-should-visit",
-                "stars": 76229,
+                "stars": 76224,
                 "topics": [
                   "books",
                   "cs",
@@ -1280,7 +1280,7 @@
                 "open_issues": 1002,
                 "owner": "sdmg15",
                 "repo": "Best-websites-a-programmer-should-visit",
-                "stars": 76229,
+                "stars": 76224,
                 "topics": [
                   "books",
                   "cs",
@@ -1304,11 +1304,11 @@
                 "id": 261787758,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-10-06T12:41:50Z",
-                "open_issues": 14,
+                "last_commit": "2026-10-07T14:44:33Z",
+                "open_issues": 17,
                 "owner": "bradtraversy",
                 "repo": "design-resources-for-developers",
-                "stars": 67091,
+                "stars": 67104,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:26.281Z"
@@ -1325,11 +1325,11 @@
                 "id": 261787758,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-10-06T12:41:50Z",
-                "open_issues": 14,
+                "last_commit": "2026-10-07T14:44:33Z",
+                "open_issues": 17,
                 "owner": "bradtraversy",
                 "repo": "design-resources-for-developers",
-                "stars": 67091,
+                "stars": 67104,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:26.281Z"
@@ -1350,7 +1350,7 @@
                 "open_issues": 16,
                 "owner": "markodenic",
                 "repo": "web-development-resources",
-                "stars": 8103,
+                "stars": 8102,
                 "topics": [
                   "chrome-extensions",
                   "color-palettes",
@@ -1478,11 +1478,11 @@
                 "id": 9791525,
                 "language": "PHP",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-05T07:35:00Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-07T14:10:48Z",
+                "open_issues": 7,
                 "owner": "digininja",
                 "repo": "DVWA",
-                "stars": 13775,
+                "stars": 13784,
                 "topics": [
                   "dvwa",
                   "hacking",
@@ -1559,7 +1559,7 @@
                 "open_issues": 5,
                 "owner": "thedaviddias",
                 "repo": "Front-End-Checklist",
-                "stars": 74381,
+                "stars": 74396,
                 "topics": [
                   "ai-agent",
                   "ai-agents",
@@ -1593,7 +1593,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2024-05-21T10:56:58Z",
-                "open_issues": 135,
+                "open_issues": 136,
                 "owner": "dypsilon",
                 "repo": "frontend-dev-bookmarks",
                 "stars": 47589,
@@ -1622,7 +1622,7 @@
                 "open_issues": 1,
                 "owner": "AllThingsSmitty",
                 "repo": "css-protips",
-                "stars": 30287,
+                "stars": 30288,
                 "topics": [
                   "accessibility",
                   "awesome-list",
@@ -1682,11 +1682,11 @@
                 "id": 21958186,
                 "language": "Markdown",
                 "license": "MIT",
-                "last_commit": "2026-10-06T18:45:04Z",
+                "last_commit": "2026-10-07T14:57:01Z",
                 "open_issues": 31,
                 "owner": "ellisonleao",
                 "repo": "magictools",
-                "stars": 17431,
+                "stars": 17439,
                 "topics": [
                   "art",
                   "awesome",
@@ -1721,10 +1721,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-04-10T19:20:30Z",
-                "open_issues": 25,
+                "open_issues": 26,
                 "owner": "Kavex",
                 "repo": "GameDev-Resources",
-                "stars": 7031,
+                "stars": 7034,
                 "topics": [
                   "2d",
                   "2d-framework",
@@ -1773,7 +1773,7 @@
                 "open_issues": 0,
                 "owner": "awesome-selfhosted",
                 "repo": "awesome-selfhosted",
-                "stars": 324379,
+                "stars": 324636,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1827,11 +1827,11 @@
                 "id": 91165678,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-06T16:47:06Z",
+                "last_commit": "2026-10-07T19:36:22Z",
                 "open_issues": 13,
                 "owner": "scraly",
                 "repo": "developers-conferences-agenda",
-                "stars": 2004,
+                "stars": 2005,
                 "topics": [
                   "call-for-papers",
                   "cfp",
@@ -1910,7 +1910,7 @@
                     "open_issues": 94,
                     "owner": "ziadoz",
                     "repo": "awesome-php",
-                    "stars": 32728,
+                    "stars": 32727,
                     "topics": [
                       "awesome",
                       "awesome-lists",
@@ -1939,7 +1939,7 @@
                     "open_issues": 30,
                     "owner": "piotrplenik",
                     "repo": "clean-code-php",
-                    "stars": 12449,
+                    "stars": 12450,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:38:26.281Z"
@@ -2050,7 +2050,7 @@
                     "language": null,
                     "license": "CC0-1.0",
                     "last_commit": "2026-06-19T12:25:07Z",
-                    "open_issues": 127,
+                    "open_issues": 128,
                     "owner": "burningtree",
                     "repo": "awesome-json",
                     "stars": 1572,
@@ -2131,7 +2131,7 @@
                     "open_issues": 3,
                     "owner": "dzharii",
                     "repo": "awesome-typescript",
-                    "stars": 5114,
+                    "stars": 5116,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:38:26.281Z"
@@ -2156,10 +2156,10 @@
                     "language": null,
                     "license": "MIT",
                     "last_commit": "2026-10-01T19:32:18Z",
-                    "open_issues": 86,
+                    "open_issues": 88,
                     "owner": "vuejs",
                     "repo": "awesome-vue",
-                    "stars": 73531,
+                    "stars": 73528,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:38:26.281Z"
@@ -2187,7 +2187,7 @@
                     "open_issues": 26,
                     "owner": "lirantal",
                     "repo": "awesome-nodejs-security",
-                    "stars": 3046,
+                    "stars": 3047,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -2227,7 +2227,7 @@
                     "open_issues": 38,
                     "owner": "Solido",
                     "repo": "awesome-flutter",
-                    "stars": 61429,
+                    "stars": 61428,
                     "topics": [
                       "android",
                       "awesome",
@@ -2279,7 +2279,7 @@
                 "open_issues": 12,
                 "owner": "lk-geimfari",
                 "repo": "awesomo",
-                "stars": 9942,
+                "stars": 9943,
                 "topics": [
                   "awesome",
                   "clojure",
@@ -2326,7 +2326,7 @@
                 "open_issues": 27,
                 "owner": "DovAmir",
                 "repo": "awesome-design-patterns",
-                "stars": 49230,
+                "stars": 49240,
                 "topics": [
                   "architecture",
                   "awesome",
@@ -2357,7 +2357,7 @@
                 "open_issues": 3,
                 "owner": "mhadidg",
                 "repo": "software-architecture-books",
-                "stars": 11372,
+                "stars": 11373,
                 "topics": [
                   "architecture",
                   "awesome",
@@ -2391,10 +2391,10 @@
                 "language": "Markdown",
                 "license": null,
                 "last_commit": "2026-07-14T19:25:58Z",
-                "open_issues": 668,
+                "open_issues": 671,
                 "owner": "codecrafters-io",
                 "repo": "build-your-own-x",
-                "stars": 551863,
+                "stars": 552041,
                 "topics": [
                   "awesome-list",
                   "free",
@@ -2422,7 +2422,7 @@
                 "open_issues": 624,
                 "owner": "donnemartin",
                 "repo": "system-design-primer",
-                "stars": 373395,
+                "stars": 373522,
                 "topics": [
                   "design",
                   "design-patterns",
@@ -2457,7 +2457,7 @@
                 "open_issues": 624,
                 "owner": "donnemartin",
                 "repo": "system-design-primer",
-                "stars": 373395,
+                "stars": 373522,
                 "topics": [
                   "design",
                   "design-patterns",
@@ -2492,7 +2492,7 @@
                 "open_issues": 259,
                 "owner": "practical-tutorials",
                 "repo": "project-based-learning",
-                "stars": 286079,
+                "stars": 286193,
                 "topics": [
                   "beginner-project",
                   "cpp",
@@ -2522,7 +2522,7 @@
                 "open_issues": 28,
                 "owner": "mtdvio",
                 "repo": "every-programmer-should-know",
-                "stars": 100520,
+                "stars": 100526,
                 "topics": [
                   "cc-by",
                   "collection",
@@ -2549,7 +2549,7 @@
                 "open_issues": 603,
                 "owner": "florinpop17",
                 "repo": "app-ideas",
-                "stars": 97973,
+                "stars": 97993,
                 "topics": [
                   "applications",
                   "coding",
@@ -2577,10 +2577,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-29T21:20:22Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "charlax",
                 "repo": "professional-programming",
-                "stars": 51606,
+                "stars": 51607,
                 "topics": [
                   "architecture",
                   "computer-science",
@@ -2615,7 +2615,7 @@
                 "open_issues": 0,
                 "owner": "Kristories",
                 "repo": "awesome-guidelines",
-                "stars": 11156,
+                "stars": 11163,
                 "topics": [
                   "awesome",
                   "awesome-guidelines",
@@ -2650,10 +2650,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-05T22:52:00Z",
-                "open_issues": 2038,
+                "open_issues": 2066,
                 "owner": "public-apis",
                 "repo": "public-apis",
-                "stars": 486542,
+                "stars": 486739,
                 "topics": [
                   "api",
                   "apis",
@@ -2712,11 +2712,11 @@
                 "id": 85077558,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-06T17:36:10Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-07T15:29:59Z",
+                "open_issues": 1,
                 "owner": "nilbuild",
                 "repo": "developer-roadmap",
-                "stars": 369025,
+                "stars": 369102,
                 "topics": [
                   "angular-roadmap",
                   "backend-roadmap",
@@ -2756,7 +2756,7 @@
                 "open_issues": 67,
                 "owner": "github",
                 "repo": "gitignore",
-                "stars": 176032,
+                "stars": 176040,
                 "topics": [
                   "git",
                   "gitignore"
@@ -2780,7 +2780,7 @@
                 "open_issues": 256,
                 "owner": "jlevy",
                 "repo": "the-art-of-command-line",
-                "stars": 162573,
+                "stars": 162588,
                 "topics": [
                   "bash",
                   "documentation",
@@ -2808,7 +2808,7 @@
                 "open_issues": 20,
                 "owner": "h5bp",
                 "repo": "html5-boilerplate",
-                "stars": 57642,
+                "stars": 57644,
                 "topics": [
                   "best-practices",
                   "css",
@@ -2837,7 +2837,7 @@
                 "open_issues": 108,
                 "owner": "minimaxir",
                 "repo": "big-list-of-naughty-strings",
-                "stars": 47730,
+                "stars": 47729,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:26.281Z"
@@ -2862,10 +2862,10 @@
                 "language": "Python",
                 "license": "CC-BY-4.0",
                 "last_commit": "2026-10-05T17:28:36Z",
-                "open_issues": 81,
+                "open_issues": 82,
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 398603,
+                "stars": 398657,
                 "topics": [
                   "books",
                   "education",
@@ -2889,10 +2889,10 @@
                 "language": "Python",
                 "license": "CC-BY-4.0",
                 "last_commit": "2026-10-05T17:28:36Z",
-                "open_issues": 81,
+                "open_issues": 82,
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 398603,
+                "stars": 398657,
                 "topics": [
                   "books",
                   "education",
@@ -2919,7 +2919,7 @@
                 "open_issues": 4,
                 "owner": "papers-we-love",
                 "repo": "papers-we-love",
-                "stars": 110291,
+                "stars": 110324,
                 "topics": [
                   "awesome",
                   "computer-science",
@@ -3018,7 +3018,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T21:10:35.946Z",
+    "last_updated": "2026-10-07T21:30:36.292Z",
     "original_repository_info": {
       "archived": false,
       "description": "Une liste organisée de ressources gratuites pour la programmation, le web et le design. Régulièrement mise à jour",
@@ -3027,7 +3027,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-30T05:36:25Z",
-      "open_issues": 4,
+      "open_issues": 5,
       "owner": "websealevel",
       "repo": "awesome-fr",
       "stars": 55,
